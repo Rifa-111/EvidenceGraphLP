@@ -1,0 +1,1330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d2" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d1" for="node" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="directed"><node id="POP:MS patients">
+  <data key="d0">Population</data>
+  <data key="d1">MS patients</data>
+</node>
+<node id="INT:CBT-I">
+  <data key="d0">Intervention</data>
+  <data key="d1">CBT-I</data>
+</node>
+<node id="OUT:total sleep time">
+  <data key="d0">Outcome</data>
+  <data key="d1">total sleep time</data>
+</node>
+<node id="CMP:waitlist">
+  <data key="d0">Comparator</data>
+  <data key="d1">waitlist</data>
+</node>
+<node id="POP:women">
+  <data key="d0">Population</data>
+  <data key="d1">women</data>
+</node>
+<node id="OUT:sleep quality (PSQI)">
+  <data key="d0">Outcome</data>
+  <data key="d1">sleep quality (PSQI)</data>
+</node>
+<node id="OUT:actigraphy">
+  <data key="d0">Outcome</data>
+  <data key="d1">actigraphy</data>
+</node>
+<node id="OUT:depression">
+  <data key="d0">Outcome</data>
+  <data key="d1">depression</data>
+</node>
+<node id="OUT:polysomnography">
+  <data key="d0">Outcome</data>
+  <data key="d1">polysomnography</data>
+</node>
+<node id="OUT:insomnia severity (ISI)">
+  <data key="d0">Outcome</data>
+  <data key="d1">insomnia severity (ISI)</data>
+</node>
+<node id="POP:insomnia patients">
+  <data key="d0">Population</data>
+  <data key="d1">insomnia patients</data>
+</node>
+<node id="OUT:sleep onset latency">
+  <data key="d0">Outcome</data>
+  <data key="d1">sleep onset latency</data>
+</node>
+<node id="CMP:not specified">
+  <data key="d0">Comparator</data>
+  <data key="d1">not specified</data>
+</node>
+<node id="OUT:sleep efficiency">
+  <data key="d0">Outcome</data>
+  <data key="d1">sleep efficiency</data>
+</node>
+<node id="OUT:wake after sleep onset">
+  <data key="d0">Outcome</data>
+  <data key="d1">wake after sleep onset</data>
+</node>
+<node id="INT:sleep hygiene education">
+  <data key="d0">Intervention</data>
+  <data key="d1">sleep hygiene education</data>
+</node>
+<node id="OUT:anxiety">
+  <data key="d0">Outcome</data>
+  <data key="d1">anxiety</data>
+</node>
+<node id="CMP:placebo">
+  <data key="d0">Comparator</data>
+  <data key="d1">placebo</data>
+</node>
+<node id="POP:chronic insomnia">
+  <data key="d0">Population</data>
+  <data key="d1">chronic insomnia</data>
+</node>
+<node id="POP:cancer survivors">
+  <data key="d0">Population</data>
+  <data key="d1">cancer survivors</data>
+</node>
+<node id="OUT:fatigue">
+  <data key="d0">Outcome</data>
+  <data key="d1">fatigue</data>
+</node>
+<node id="OUT:sleep hygiene behaviour">
+  <data key="d0">Outcome</data>
+  <data key="d1">sleep hygiene behaviour</data>
+</node>
+<node id="OUT:quality of life">
+  <data key="d0">Outcome</data>
+  <data key="d1">quality of life</data>
+</node>
+<node id="INT:placebo">
+  <data key="d0">Intervention</data>
+  <data key="d1">placebo</data>
+</node>
+<node id="POP:older adults">
+  <data key="d0">Population</data>
+  <data key="d1">older adults</data>
+</node>
+<node id="POP:adults with insomnia">
+  <data key="d0">Population</data>
+  <data key="d1">adults with insomnia</data>
+</node>
+<node id="OUT:daytime functioning">
+  <data key="d0">Outcome</data>
+  <data key="d1">daytime functioning</data>
+</node>
+<node id="INT:cognitive therapy">
+  <data key="d0">Intervention</data>
+  <data key="d1">cognitive therapy</data>
+</node>
+<node id="CMP:sleep hygiene only">
+  <data key="d0">Comparator</data>
+  <data key="d1">sleep hygiene only</data>
+</node>
+<node id="INT:meditation/mindfulness">
+  <data key="d0">Intervention</data>
+  <data key="d1">meditation/mindfulness</data>
+</node>
+<node id="CMP:control group">
+  <data key="d0">Comparator</data>
+  <data key="d1">control group</data>
+</node>
+<node id="INT:pharmacotherapy">
+  <data key="d0">Intervention</data>
+  <data key="d1">pharmacotherapy</data>
+</node>
+<node id="INT:benzodiazepines">
+  <data key="d0">Intervention</data>
+  <data key="d1">benzodiazepines</data>
+</node>
+<node id="INT:sleep restriction therapy">
+  <data key="d0">Intervention</data>
+  <data key="d1">sleep restriction therapy</data>
+</node>
+<node id="POP:comorbid insomnia">
+  <data key="d0">Population</data>
+  <data key="d1">comorbid insomnia</data>
+</node>
+<node id="INT:prolonged-release melatonin">
+  <data key="d0">Intervention</data>
+  <data key="d1">prolonged-release melatonin</data>
+</node>
+<node id="OUT:safety">
+  <data key="d0">Outcome</data>
+  <data key="d1">safety</data>
+</node>
+<node id="POP:dementia patients">
+  <data key="d0">Population</data>
+  <data key="d1">dementia patients</data>
+</node>
+<node id="OUT:adverse events">
+  <data key="d0">Outcome</data>
+  <data key="d1">adverse events</data>
+</node>
+<node id="OUT:cognitive function">
+  <data key="d0">Outcome</data>
+  <data key="d1">cognitive function</data>
+</node>
+<node id="INT:melatonin">
+  <data key="d0">Intervention</data>
+  <data key="d1">melatonin</data>
+</node>
+<node id="INT:psychoeducation">
+  <data key="d0">Intervention</data>
+  <data key="d1">psychoeducation</data>
+</node>
+<node id="OUT:pain">
+  <data key="d0">Outcome</data>
+  <data key="d1">pain</data>
+</node>
+<node id="OUT:sleep onset time">
+  <data key="d0">Outcome</data>
+  <data key="d1">sleep onset time</data>
+</node>
+<node id="INT:exercise">
+  <data key="d0">Intervention</data>
+  <data key="d1">exercise</data>
+</node>
+<node id="POP:children/adolescents">
+  <data key="d0">Population</data>
+  <data key="d1">children/adolescents</data>
+</node>
+<node id="POP:menopausal women">
+  <data key="d0">Population</data>
+  <data key="d1">menopausal women</data>
+</node>
+<node id="INT:relaxation therapy">
+  <data key="d0">Intervention</data>
+  <data key="d1">relaxation therapy</data>
+</node>
+<node id="OUT:chronotype">
+  <data key="d0">Outcome</data>
+  <data key="d1">chronotype</data>
+</node>
+<node id="POP:Parkinson patients">
+  <data key="d0">Population</data>
+  <data key="d1">Parkinson patients</data>
+</node>
+<node id="POP:adolescents">
+  <data key="d0">Population</data>
+  <data key="d1">adolescents</data>
+</node>
+<node id="INT:suvorexant">
+  <data key="d0">Intervention</data>
+  <data key="d1">suvorexant</data>
+</node>
+<node id="OUT:mental health">
+  <data key="d0">Outcome</data>
+  <data key="d1">mental health</data>
+</node>
+<node id="INT:digital CBT-I">
+  <data key="d0">Intervention</data>
+  <data key="d1">digital CBT-I</data>
+</node>
+<node id="INT:stimulus control">
+  <data key="d0">Intervention</data>
+  <data key="d1">stimulus control</data>
+</node>
+<node id="POP:ASD population">
+  <data key="d0">Population</data>
+  <data key="d1">ASD population</data>
+</node>
+<node id="POP:ADHD population">
+  <data key="d0">Population</data>
+  <data key="d1">ADHD population</data>
+</node>
+<node id="POP:young adults">
+  <data key="d0">Population</data>
+  <data key="d1">young adults</data>
+</node>
+<node id="INT:light therapy">
+  <data key="d0">Intervention</data>
+  <data key="d1">light therapy</data>
+</node>
+<node id="OUT:dim light melatonin onset">
+  <data key="d0">Outcome</data>
+  <data key="d1">dim light melatonin onset</data>
+</node>
+<node id="INT:patient education">
+  <data key="d0">Intervention</data>
+  <data key="d1">patient education</data>
+</node>
+<node id="CMP:patient education">
+  <data key="d0">Comparator</data>
+  <data key="d1">patient education</data>
+</node>
+<node id="POP:epilepsy patients">
+  <data key="d0">Population</data>
+  <data key="d1">epilepsy patients</data>
+</node>
+<edge source="INT:CBT-I" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">42</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:total sleep time">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">9</data>
+</edge>
+<edge source="INT:CBT-I" target="CMP:waitlist">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">29</data>
+</edge>
+<edge source="INT:CBT-I" target="POP:women">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">28</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">11</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:actigraphy">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">10</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:depression">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">24</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:polysomnography">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">10</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">26</data>
+</edge>
+<edge source="INT:CBT-I" target="POP:insomnia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">26</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:sleep onset latency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:sleep efficiency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">15</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:wake after sleep onset">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">8</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:anxiety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">12</data>
+</edge>
+<edge source="INT:CBT-I" target="CMP:placebo">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">58</data>
+</edge>
+<edge source="INT:CBT-I" target="POP:chronic insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">13</data>
+</edge>
+<edge source="INT:CBT-I" target="POP:cancer survivors">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">17</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:fatigue">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">14</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:sleep hygiene behaviour">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">6</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:quality of life">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">7</data>
+</edge>
+<edge source="INT:CBT-I" target="POP:older adults">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">18</data>
+</edge>
+<edge source="INT:CBT-I" target="POP:adults with insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">21</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:daytime functioning">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:CBT-I" target="POP:comorbid insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:pain">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:CBT-I" target="CMP:control group">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:CBT-I" target="OUT:mental health">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">33</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:anxiety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">11</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="CMP:placebo">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">46</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="POP:chronic insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">13</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="POP:cancer survivors">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">13</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="POP:women">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">19</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:fatigue">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">9</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:total sleep time">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:sleep efficiency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:sleep hygiene behaviour">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">30</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:quality of life">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">11</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:depression">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">13</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:wake after sleep onset">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">10</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="POP:older adults">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">6</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="CMP:sleep hygiene only">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">26</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="POP:adults with insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">8</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="POP:insomnia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">15</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">11</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="CMP:control group">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">49</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:daytime functioning">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">6</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:actigraphy">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">9</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="POP:adolescents">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="POP:children/adolescents">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">9</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:sleep onset latency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="POP:ADHD population">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">9</data>
+</edge>
+<edge source="INT:sleep hygiene education" target="OUT:mental health">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:placebo" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">90</data>
+</edge>
+<edge source="INT:placebo" target="OUT:anxiety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">13</data>
+</edge>
+<edge source="INT:placebo" target="CMP:placebo">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">302</data>
+</edge>
+<edge source="INT:placebo" target="POP:chronic insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">9</data>
+</edge>
+<edge source="INT:placebo" target="POP:cancer survivors">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">18</data>
+</edge>
+<edge source="INT:placebo" target="POP:women">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">52</data>
+</edge>
+<edge source="INT:placebo" target="OUT:fatigue">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">11</data>
+</edge>
+<edge source="INT:placebo" target="OUT:total sleep time">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">21</data>
+</edge>
+<edge source="INT:placebo" target="OUT:sleep efficiency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">23</data>
+</edge>
+<edge source="INT:placebo" target="OUT:sleep hygiene behaviour">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">7</data>
+</edge>
+<edge source="INT:placebo" target="OUT:quality of life">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">12</data>
+</edge>
+<edge source="INT:placebo" target="OUT:depression">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">12</data>
+</edge>
+<edge source="INT:placebo" target="OUT:wake after sleep onset">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">11</data>
+</edge>
+<edge source="INT:placebo" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">21</data>
+</edge>
+<edge source="INT:placebo" target="POP:insomnia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">69</data>
+</edge>
+<edge source="INT:placebo" target="OUT:polysomnography">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">33</data>
+</edge>
+<edge source="INT:placebo" target="POP:comorbid insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:placebo" target="OUT:safety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">20</data>
+</edge>
+<edge source="INT:placebo" target="POP:dementia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">9</data>
+</edge>
+<edge source="INT:placebo" target="OUT:adverse events">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">33</data>
+</edge>
+<edge source="INT:placebo" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">37</data>
+</edge>
+<edge source="INT:placebo" target="OUT:cognitive function">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:placebo" target="OUT:pain">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">14</data>
+</edge>
+<edge source="INT:placebo" target="OUT:sleep onset latency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">15</data>
+</edge>
+<edge source="INT:placebo" target="OUT:sleep onset time">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:placebo" target="OUT:daytime functioning">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">8</data>
+</edge>
+<edge source="INT:placebo" target="POP:children/adolescents">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">18</data>
+</edge>
+<edge source="INT:placebo" target="OUT:actigraphy">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">9</data>
+</edge>
+<edge source="INT:placebo" target="POP:Parkinson patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">6</data>
+</edge>
+<edge source="INT:placebo" target="POP:menopausal women">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:placebo" target="POP:older adults">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">6</data>
+</edge>
+<edge source="INT:placebo" target="CMP:control group">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:placebo" target="POP:ASD population">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:placebo" target="POP:ADHD population">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:placebo" target="POP:adolescents">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:placebo" target="CMP:patient education">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:placebo" target="POP:adults with insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:placebo" target="POP:epilepsy patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:cognitive therapy" target="POP:older adults">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">7</data>
+</edge>
+<edge source="INT:cognitive therapy" target="OUT:anxiety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:cognitive therapy" target="CMP:waitlist">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">14</data>
+</edge>
+<edge source="INT:cognitive therapy" target="POP:adults with insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">9</data>
+</edge>
+<edge source="INT:cognitive therapy" target="OUT:fatigue">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:cognitive therapy" target="OUT:sleep efficiency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:cognitive therapy" target="OUT:actigraphy">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:cognitive therapy" target="OUT:daytime functioning">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:cognitive therapy" target="OUT:wake after sleep onset">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:cognitive therapy" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:cognitive therapy" target="OUT:sleep hygiene behaviour">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:cognitive therapy" target="POP:chronic insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="POP:older adults">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">6</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="OUT:anxiety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="CMP:sleep hygiene only">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">26</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="POP:adults with insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">11</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="POP:insomnia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">6</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">6</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="OUT:fatigue">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="OUT:quality of life">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="OUT:depression">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="OUT:sleep hygiene behaviour">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">7</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="POP:chronic insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">7</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="OUT:polysomnography">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:meditation/mindfulness" target="OUT:actigraphy">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">10</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="CMP:control group">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">10</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="OUT:sleep hygiene behaviour">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="POP:comorbid insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="OUT:polysomnography">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="OUT:actigraphy">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="OUT:depression">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="OUT:fatigue">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="OUT:quality of life">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="OUT:pain">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="POP:insomnia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="CMP:placebo">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:pharmacotherapy" target="POP:women">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:benzodiazepines" target="POP:insomnia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">10</data>
+</edge>
+<edge source="INT:benzodiazepines" target="OUT:polysomnography">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:benzodiazepines" target="CMP:placebo">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">10</data>
+</edge>
+<edge source="INT:benzodiazepines" target="OUT:wake after sleep onset">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:benzodiazepines" target="OUT:total sleep time">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:benzodiazepines" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:benzodiazepines" target="OUT:actigraphy">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:benzodiazepines" target="OUT:pain">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:benzodiazepines" target="OUT:adverse events">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:benzodiazepines" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="POP:older adults">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">6</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="OUT:sleep onset latency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="POP:adults with insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">8</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="POP:women">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">12</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="OUT:anxiety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="OUT:sleep efficiency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="OUT:depression">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">8</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="OUT:polysomnography">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">6</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="POP:comorbid insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="OUT:actigraphy">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="OUT:wake after sleep onset">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="OUT:fatigue">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="POP:insomnia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="OUT:mental health">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="OUT:sleep hygiene behaviour">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="POP:chronic insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="POP:adolescents">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="POP:young adults">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:sleep restriction therapy" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:prolonged-release melatonin" target="POP:comorbid insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:prolonged-release melatonin" target="OUT:safety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:prolonged-release melatonin" target="CMP:placebo">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">15</data>
+</edge>
+<edge source="INT:prolonged-release melatonin" target="POP:women">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:prolonged-release melatonin" target="POP:dementia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:prolonged-release melatonin" target="OUT:adverse events">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:prolonged-release melatonin" target="OUT:sleep efficiency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:prolonged-release melatonin" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:prolonged-release melatonin" target="OUT:cognitive function">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:melatonin" target="POP:comorbid insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:safety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:melatonin" target="CMP:placebo">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">24</data>
+</edge>
+<edge source="INT:melatonin" target="POP:women">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">11</data>
+</edge>
+<edge source="INT:melatonin" target="POP:dementia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:adverse events">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:sleep efficiency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">9</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:cognitive function">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:melatonin" target="POP:insomnia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">9</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:polysomnography">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:melatonin" target="CMP:control group">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">6</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:total sleep time">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:melatonin" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">13</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:anxiety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:actigraphy">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:chronotype">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:depression">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:quality of life">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:pain">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:melatonin" target="OUT:dim light melatonin onset">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:psychoeducation" target="POP:comorbid insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:psychoeducation" target="OUT:polysomnography">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:psychoeducation" target="OUT:actigraphy">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:psychoeducation" target="OUT:depression">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:psychoeducation" target="POP:cancer survivors">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:psychoeducation" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:psychoeducation" target="CMP:control group">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">6</data>
+</edge>
+<edge source="INT:psychoeducation" target="POP:women">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:psychoeducation" target="OUT:anxiety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:psychoeducation" target="OUT:fatigue">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:psychoeducation" target="POP:adults with insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:psychoeducation" target="OUT:sleep hygiene behaviour">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:psychoeducation" target="POP:chronic insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:psychoeducation" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:psychoeducation" target="POP:children/adolescents">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:psychoeducation" target="POP:ADHD population">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:psychoeducation" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:psychoeducation" target="OUT:mental health">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:exercise" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">24</data>
+</edge>
+<edge source="INT:exercise" target="OUT:fatigue">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:exercise" target="CMP:control group">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">26</data>
+</edge>
+<edge source="INT:exercise" target="OUT:quality of life">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">10</data>
+</edge>
+<edge source="INT:exercise" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">10</data>
+</edge>
+<edge source="INT:exercise" target="OUT:pain">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:exercise" target="OUT:depression">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:exercise" target="OUT:polysomnography">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:exercise" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:exercise" target="POP:menopausal women">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:exercise" target="POP:cancer survivors">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:exercise" target="POP:insomnia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">9</data>
+</edge>
+<edge source="INT:exercise" target="OUT:anxiety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:exercise" target="CMP:waitlist">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">8</data>
+</edge>
+<edge source="INT:exercise" target="POP:women">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">8</data>
+</edge>
+<edge source="INT:exercise" target="OUT:adverse events">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:exercise" target="OUT:total sleep time">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:exercise" target="CMP:placebo">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:exercise" target="POP:young adults">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">7</data>
+</edge>
+<edge source="INT:exercise" target="OUT:safety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:exercise" target="OUT:mental health">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:relaxation therapy" target="POP:insomnia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:relaxation therapy" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:relaxation therapy" target="CMP:control group">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:relaxation therapy" target="POP:adults with insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:relaxation therapy" target="OUT:sleep hygiene behaviour">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:relaxation therapy" target="POP:chronic insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:relaxation therapy" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:suvorexant" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:suvorexant" target="OUT:safety">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:suvorexant" target="CMP:placebo">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:suvorexant" target="OUT:total sleep time">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:suvorexant" target="OUT:adverse events">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:digital CBT-I" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">4</data>
+</edge>
+<edge source="INT:digital CBT-I" target="OUT:depression">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">5</data>
+</edge>
+<edge source="INT:digital CBT-I" target="CMP:control group">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:digital CBT-I" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:digital CBT-I" target="POP:comorbid insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:digital CBT-I" target="POP:insomnia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:digital CBT-I" target="POP:women">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:digital CBT-I" target="OUT:sleep onset latency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">3</data>
+</edge>
+<edge source="INT:stimulus control" target="POP:adults with insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:stimulus control" target="OUT:sleep hygiene behaviour">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:stimulus control" target="POP:chronic insomnia">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:stimulus control" target="OUT:insomnia severity (ISI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:light therapy" target="POP:insomnia patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:light therapy" target="OUT:dim light melatonin onset">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:light therapy" target="POP:older adults">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:light therapy" target="OUT:sleep onset latency">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:light therapy" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:patient education" target="POP:MS patients">
+  <data key="d2">TESTED_IN</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:patient education" target="OUT:sleep quality (PSQI)">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+<edge source="INT:patient education" target="CMP:patient education">
+  <data key="d2">COMPARED_WITH</data>
+  <data key="d3">2</data>
+</edge>
+<edge source="INT:patient education" target="OUT:pain">
+  <data key="d2">MEASURED_BY</data>
+  <data key="d3">1</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,19 @@
+,actigraphy,adverse events,anxiety,chronotype,cognitive function,daytime functioning,depression,dim light melatonin onset,fatigue,insomnia severity (ISI),mental health,pain,polysomnography,quality of life,safety,sleep efficiency,sleep hygiene behaviour,sleep onset latency,sleep onset time,sleep quality (PSQI),total sleep time,wake after sleep onset
+CBT-I,10,0,12,0,0,4,24,0,14,26,3,5,10,7,0,15,6,4,0,11,9,8
+benzodiazepines,1,1,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0,0,0,1,1,1
+cognitive therapy,2,0,2,0,0,2,0,0,2,4,0,0,0,0,0,2,2,0,0,0,0,2
+digital CBT-I,0,0,0,0,0,0,5,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0
+exercise,0,4,1,0,0,0,5,0,3,1,4,4,4,10,4,0,0,0,0,10,2,0
+light therapy,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+meditation/mindfulness,3,0,4,0,0,0,4,0,4,4,0,0,2,4,0,0,7,0,0,4,0,0
+melatonin,1,3,1,1,3,0,3,1,0,4,0,4,4,2,3,3,0,0,0,9,1,0
+patient education,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+pharmacotherapy,1,0,0,0,0,0,2,0,1,1,0,1,3,1,0,0,1,0,0,5,0,0
+placebo,9,33,13,0,5,8,12,0,11,21,0,14,33,12,20,23,7,15,1,37,21,11
+prolonged-release melatonin,0,3,0,0,3,0,0,0,0,0,0,0,0,0,3,3,0,0,0,3,0,0
+psychoeducation,1,0,5,0,0,0,4,0,2,2,3,0,1,0,0,0,2,0,0,2,0,0
+relaxation therapy,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,1,0,0
+sleep hygiene education,9,0,11,0,0,6,13,0,9,10,3,0,0,11,0,4,30,3,0,11,5,4
+sleep restriction therapy,5,0,3,0,0,0,8,0,5,2,1,0,6,0,0,3,2,5,0,3,0,1
+stimulus control,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+suvorexant,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0

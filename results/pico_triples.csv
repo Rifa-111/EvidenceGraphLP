@@ -1,0 +1,887 @@
+pmid,year,study_type,population,intervention,outcome,comparator
+24497661,2016,RCT,MS patients,CBT-I,total sleep time,waitlist
+24497661,2016,RCT,women,CBT-I,total sleep time,waitlist
+24497661,2016,RCT,MS patients,CBT-I,sleep quality (PSQI),waitlist
+24497661,2016,RCT,women,CBT-I,sleep quality (PSQI),waitlist
+24497661,2016,RCT,MS patients,CBT-I,actigraphy,waitlist
+24497661,2016,RCT,women,CBT-I,actigraphy,waitlist
+24497661,2016,RCT,MS patients,CBT-I,depression,waitlist
+24497661,2016,RCT,women,CBT-I,depression,waitlist
+24497661,2016,RCT,MS patients,CBT-I,polysomnography,waitlist
+24497661,2016,RCT,women,CBT-I,polysomnography,waitlist
+24497661,2016,RCT,MS patients,CBT-I,insomnia severity (ISI),waitlist
+24497661,2016,RCT,women,CBT-I,insomnia severity (ISI),waitlist
+24395850,2016,RCT,insomnia patients,CBT-I,sleep onset latency,not specified
+24395850,2016,RCT,insomnia patients,CBT-I,total sleep time,not specified
+24395850,2016,RCT,insomnia patients,CBT-I,sleep efficiency,not specified
+24395850,2016,RCT,insomnia patients,CBT-I,sleep quality (PSQI),not specified
+24395850,2016,RCT,insomnia patients,CBT-I,actigraphy,not specified
+24395850,2016,RCT,insomnia patients,CBT-I,wake after sleep onset,not specified
+24395850,2016,RCT,insomnia patients,CBT-I,insomnia severity (ISI),not specified
+24650832,2016,RCT,MS patients,sleep hygiene education,anxiety,placebo
+24650832,2016,RCT,chronic insomnia,sleep hygiene education,anxiety,placebo
+24650832,2016,RCT,cancer survivors,sleep hygiene education,anxiety,placebo
+24650832,2016,RCT,women,sleep hygiene education,anxiety,placebo
+24650832,2016,RCT,MS patients,sleep hygiene education,fatigue,placebo
+24650832,2016,RCT,chronic insomnia,sleep hygiene education,fatigue,placebo
+24650832,2016,RCT,cancer survivors,sleep hygiene education,fatigue,placebo
+24650832,2016,RCT,women,sleep hygiene education,fatigue,placebo
+24650832,2016,RCT,MS patients,sleep hygiene education,total sleep time,placebo
+24650832,2016,RCT,chronic insomnia,sleep hygiene education,total sleep time,placebo
+24650832,2016,RCT,cancer survivors,sleep hygiene education,total sleep time,placebo
+24650832,2016,RCT,women,sleep hygiene education,total sleep time,placebo
+24650832,2016,RCT,MS patients,sleep hygiene education,sleep efficiency,placebo
+24650832,2016,RCT,chronic insomnia,sleep hygiene education,sleep efficiency,placebo
+24650832,2016,RCT,cancer survivors,sleep hygiene education,sleep efficiency,placebo
+24650832,2016,RCT,women,sleep hygiene education,sleep efficiency,placebo
+24650832,2016,RCT,MS patients,sleep hygiene education,sleep hygiene behaviour,placebo
+24650832,2016,RCT,chronic insomnia,sleep hygiene education,sleep hygiene behaviour,placebo
+24650832,2016,RCT,cancer survivors,sleep hygiene education,sleep hygiene behaviour,placebo
+24650832,2016,RCT,women,sleep hygiene education,sleep hygiene behaviour,placebo
+24650832,2016,RCT,MS patients,sleep hygiene education,quality of life,placebo
+24650832,2016,RCT,chronic insomnia,sleep hygiene education,quality of life,placebo
+24650832,2016,RCT,cancer survivors,sleep hygiene education,quality of life,placebo
+24650832,2016,RCT,women,sleep hygiene education,quality of life,placebo
+24650832,2016,RCT,MS patients,sleep hygiene education,depression,placebo
+24650832,2016,RCT,chronic insomnia,sleep hygiene education,depression,placebo
+24650832,2016,RCT,cancer survivors,sleep hygiene education,depression,placebo
+24650832,2016,RCT,women,sleep hygiene education,depression,placebo
+24650832,2016,RCT,MS patients,sleep hygiene education,wake after sleep onset,placebo
+24650832,2016,RCT,chronic insomnia,sleep hygiene education,wake after sleep onset,placebo
+24650832,2016,RCT,cancer survivors,sleep hygiene education,wake after sleep onset,placebo
+24650832,2016,RCT,women,sleep hygiene education,wake after sleep onset,placebo
+24650832,2016,RCT,MS patients,sleep hygiene education,insomnia severity (ISI),placebo
+24650832,2016,RCT,chronic insomnia,sleep hygiene education,insomnia severity (ISI),placebo
+24650832,2016,RCT,cancer survivors,sleep hygiene education,insomnia severity (ISI),placebo
+24650832,2016,RCT,women,sleep hygiene education,insomnia severity (ISI),placebo
+24650832,2016,RCT,MS patients,CBT-I,anxiety,placebo
+24650832,2016,RCT,chronic insomnia,CBT-I,anxiety,placebo
+24650832,2016,RCT,cancer survivors,CBT-I,anxiety,placebo
+24650832,2016,RCT,women,CBT-I,anxiety,placebo
+24650832,2016,RCT,MS patients,CBT-I,fatigue,placebo
+24650832,2016,RCT,chronic insomnia,CBT-I,fatigue,placebo
+24650832,2016,RCT,cancer survivors,CBT-I,fatigue,placebo
+24650832,2016,RCT,women,CBT-I,fatigue,placebo
+24650832,2016,RCT,MS patients,CBT-I,total sleep time,placebo
+24650832,2016,RCT,chronic insomnia,CBT-I,total sleep time,placebo
+24650832,2016,RCT,cancer survivors,CBT-I,total sleep time,placebo
+24650832,2016,RCT,women,CBT-I,total sleep time,placebo
+24650832,2016,RCT,MS patients,CBT-I,sleep efficiency,placebo
+24650832,2016,RCT,chronic insomnia,CBT-I,sleep efficiency,placebo
+24650832,2016,RCT,cancer survivors,CBT-I,sleep efficiency,placebo
+24650832,2016,RCT,women,CBT-I,sleep efficiency,placebo
+24650832,2016,RCT,MS patients,CBT-I,sleep hygiene behaviour,placebo
+24650832,2016,RCT,chronic insomnia,CBT-I,sleep hygiene behaviour,placebo
+24650832,2016,RCT,cancer survivors,CBT-I,sleep hygiene behaviour,placebo
+24650832,2016,RCT,women,CBT-I,sleep hygiene behaviour,placebo
+24650832,2016,RCT,MS patients,CBT-I,quality of life,placebo
+24650832,2016,RCT,chronic insomnia,CBT-I,quality of life,placebo
+24650832,2016,RCT,cancer survivors,CBT-I,quality of life,placebo
+24650832,2016,RCT,women,CBT-I,quality of life,placebo
+24650832,2016,RCT,MS patients,CBT-I,depression,placebo
+24650832,2016,RCT,chronic insomnia,CBT-I,depression,placebo
+24650832,2016,RCT,cancer survivors,CBT-I,depression,placebo
+24650832,2016,RCT,women,CBT-I,depression,placebo
+24650832,2016,RCT,MS patients,CBT-I,wake after sleep onset,placebo
+24650832,2016,RCT,chronic insomnia,CBT-I,wake after sleep onset,placebo
+24650832,2016,RCT,cancer survivors,CBT-I,wake after sleep onset,placebo
+24650832,2016,RCT,women,CBT-I,wake after sleep onset,placebo
+24650832,2016,RCT,MS patients,CBT-I,insomnia severity (ISI),placebo
+24650832,2016,RCT,chronic insomnia,CBT-I,insomnia severity (ISI),placebo
+24650832,2016,RCT,cancer survivors,CBT-I,insomnia severity (ISI),placebo
+24650832,2016,RCT,women,CBT-I,insomnia severity (ISI),placebo
+24650832,2016,RCT,MS patients,placebo,anxiety,placebo
+24650832,2016,RCT,chronic insomnia,placebo,anxiety,placebo
+24650832,2016,RCT,cancer survivors,placebo,anxiety,placebo
+24650832,2016,RCT,women,placebo,anxiety,placebo
+24650832,2016,RCT,MS patients,placebo,fatigue,placebo
+24650832,2016,RCT,chronic insomnia,placebo,fatigue,placebo
+24650832,2016,RCT,cancer survivors,placebo,fatigue,placebo
+24650832,2016,RCT,women,placebo,fatigue,placebo
+24650832,2016,RCT,MS patients,placebo,total sleep time,placebo
+24650832,2016,RCT,chronic insomnia,placebo,total sleep time,placebo
+24650832,2016,RCT,cancer survivors,placebo,total sleep time,placebo
+24650832,2016,RCT,women,placebo,total sleep time,placebo
+24650832,2016,RCT,MS patients,placebo,sleep efficiency,placebo
+24650832,2016,RCT,chronic insomnia,placebo,sleep efficiency,placebo
+24650832,2016,RCT,cancer survivors,placebo,sleep efficiency,placebo
+24650832,2016,RCT,women,placebo,sleep efficiency,placebo
+24650832,2016,RCT,MS patients,placebo,sleep hygiene behaviour,placebo
+24650832,2016,RCT,chronic insomnia,placebo,sleep hygiene behaviour,placebo
+24650832,2016,RCT,cancer survivors,placebo,sleep hygiene behaviour,placebo
+24650832,2016,RCT,women,placebo,sleep hygiene behaviour,placebo
+24650832,2016,RCT,MS patients,placebo,quality of life,placebo
+24650832,2016,RCT,chronic insomnia,placebo,quality of life,placebo
+24650832,2016,RCT,cancer survivors,placebo,quality of life,placebo
+24650832,2016,RCT,women,placebo,quality of life,placebo
+24650832,2016,RCT,MS patients,placebo,depression,placebo
+24650832,2016,RCT,chronic insomnia,placebo,depression,placebo
+24650832,2016,RCT,cancer survivors,placebo,depression,placebo
+24650832,2016,RCT,women,placebo,depression,placebo
+24650832,2016,RCT,MS patients,placebo,wake after sleep onset,placebo
+24650832,2016,RCT,chronic insomnia,placebo,wake after sleep onset,placebo
+24650832,2016,RCT,cancer survivors,placebo,wake after sleep onset,placebo
+24650832,2016,RCT,women,placebo,wake after sleep onset,placebo
+24650832,2016,RCT,MS patients,placebo,insomnia severity (ISI),placebo
+24650832,2016,RCT,chronic insomnia,placebo,insomnia severity (ISI),placebo
+24650832,2016,RCT,cancer survivors,placebo,insomnia severity (ISI),placebo
+24650832,2016,RCT,women,placebo,insomnia severity (ISI),placebo
+24470701,2016,RCT,older adults,CBT-I,anxiety,waitlist
+24470701,2016,RCT,adults with insomnia,CBT-I,anxiety,waitlist
+24470701,2016,RCT,older adults,CBT-I,fatigue,waitlist
+24470701,2016,RCT,adults with insomnia,CBT-I,fatigue,waitlist
+24470701,2016,RCT,older adults,CBT-I,sleep efficiency,waitlist
+24470701,2016,RCT,adults with insomnia,CBT-I,sleep efficiency,waitlist
+24470701,2016,RCT,older adults,CBT-I,actigraphy,waitlist
+24470701,2016,RCT,adults with insomnia,CBT-I,actigraphy,waitlist
+24470701,2016,RCT,older adults,CBT-I,daytime functioning,waitlist
+24470701,2016,RCT,adults with insomnia,CBT-I,daytime functioning,waitlist
+24470701,2016,RCT,older adults,CBT-I,wake after sleep onset,waitlist
+24470701,2016,RCT,adults with insomnia,CBT-I,wake after sleep onset,waitlist
+24470701,2016,RCT,older adults,CBT-I,insomnia severity (ISI),waitlist
+24470701,2016,RCT,adults with insomnia,CBT-I,insomnia severity (ISI),waitlist
+24470701,2016,RCT,older adults,cognitive therapy,anxiety,waitlist
+24470701,2016,RCT,adults with insomnia,cognitive therapy,anxiety,waitlist
+24470701,2016,RCT,older adults,cognitive therapy,fatigue,waitlist
+24470701,2016,RCT,adults with insomnia,cognitive therapy,fatigue,waitlist
+24470701,2016,RCT,older adults,cognitive therapy,sleep efficiency,waitlist
+24470701,2016,RCT,adults with insomnia,cognitive therapy,sleep efficiency,waitlist
+24470701,2016,RCT,older adults,cognitive therapy,actigraphy,waitlist
+24470701,2016,RCT,adults with insomnia,cognitive therapy,actigraphy,waitlist
+24470701,2016,RCT,older adults,cognitive therapy,daytime functioning,waitlist
+24470701,2016,RCT,adults with insomnia,cognitive therapy,daytime functioning,waitlist
+24470701,2016,RCT,older adults,cognitive therapy,wake after sleep onset,waitlist
+24470701,2016,RCT,adults with insomnia,cognitive therapy,wake after sleep onset,waitlist
+24470701,2016,RCT,older adults,cognitive therapy,insomnia severity (ISI),waitlist
+24470701,2016,RCT,adults with insomnia,cognitive therapy,insomnia severity (ISI),waitlist
+25686304,2016,RCT,older adults,sleep hygiene education,anxiety,sleep hygiene only
+25686304,2016,RCT,adults with insomnia,sleep hygiene education,anxiety,sleep hygiene only
+25686304,2016,RCT,insomnia patients,sleep hygiene education,anxiety,sleep hygiene only
+25686304,2016,RCT,MS patients,sleep hygiene education,anxiety,sleep hygiene only
+25686304,2016,RCT,older adults,sleep hygiene education,fatigue,sleep hygiene only
+25686304,2016,RCT,adults with insomnia,sleep hygiene education,fatigue,sleep hygiene only
+25686304,2016,RCT,insomnia patients,sleep hygiene education,fatigue,sleep hygiene only
+25686304,2016,RCT,MS patients,sleep hygiene education,fatigue,sleep hygiene only
+25686304,2016,RCT,older adults,sleep hygiene education,quality of life,sleep hygiene only
+25686304,2016,RCT,adults with insomnia,sleep hygiene education,quality of life,sleep hygiene only
+25686304,2016,RCT,insomnia patients,sleep hygiene education,quality of life,sleep hygiene only
+25686304,2016,RCT,MS patients,sleep hygiene education,quality of life,sleep hygiene only
+25686304,2016,RCT,older adults,sleep hygiene education,sleep quality (PSQI),sleep hygiene only
+25686304,2016,RCT,adults with insomnia,sleep hygiene education,sleep quality (PSQI),sleep hygiene only
+25686304,2016,RCT,insomnia patients,sleep hygiene education,sleep quality (PSQI),sleep hygiene only
+25686304,2016,RCT,MS patients,sleep hygiene education,sleep quality (PSQI),sleep hygiene only
+25686304,2016,RCT,older adults,sleep hygiene education,depression,sleep hygiene only
+25686304,2016,RCT,adults with insomnia,sleep hygiene education,depression,sleep hygiene only
+25686304,2016,RCT,insomnia patients,sleep hygiene education,depression,sleep hygiene only
+25686304,2016,RCT,MS patients,sleep hygiene education,depression,sleep hygiene only
+25686304,2016,RCT,older adults,sleep hygiene education,sleep hygiene behaviour,sleep hygiene only
+25686304,2016,RCT,adults with insomnia,sleep hygiene education,sleep hygiene behaviour,sleep hygiene only
+25686304,2016,RCT,insomnia patients,sleep hygiene education,sleep hygiene behaviour,sleep hygiene only
+25686304,2016,RCT,MS patients,sleep hygiene education,sleep hygiene behaviour,sleep hygiene only
+25686304,2016,RCT,older adults,meditation/mindfulness,anxiety,sleep hygiene only
+25686304,2016,RCT,adults with insomnia,meditation/mindfulness,anxiety,sleep hygiene only
+25686304,2016,RCT,insomnia patients,meditation/mindfulness,anxiety,sleep hygiene only
+25686304,2016,RCT,MS patients,meditation/mindfulness,anxiety,sleep hygiene only
+25686304,2016,RCT,older adults,meditation/mindfulness,fatigue,sleep hygiene only
+25686304,2016,RCT,adults with insomnia,meditation/mindfulness,fatigue,sleep hygiene only
+25686304,2016,RCT,insomnia patients,meditation/mindfulness,fatigue,sleep hygiene only
+25686304,2016,RCT,MS patients,meditation/mindfulness,fatigue,sleep hygiene only
+25686304,2016,RCT,older adults,meditation/mindfulness,quality of life,sleep hygiene only
+25686304,2016,RCT,adults with insomnia,meditation/mindfulness,quality of life,sleep hygiene only
+25686304,2016,RCT,insomnia patients,meditation/mindfulness,quality of life,sleep hygiene only
+25686304,2016,RCT,MS patients,meditation/mindfulness,quality of life,sleep hygiene only
+25686304,2016,RCT,older adults,meditation/mindfulness,sleep quality (PSQI),sleep hygiene only
+25686304,2016,RCT,adults with insomnia,meditation/mindfulness,sleep quality (PSQI),sleep hygiene only
+25686304,2016,RCT,insomnia patients,meditation/mindfulness,sleep quality (PSQI),sleep hygiene only
+25686304,2016,RCT,MS patients,meditation/mindfulness,sleep quality (PSQI),sleep hygiene only
+25686304,2016,RCT,older adults,meditation/mindfulness,depression,sleep hygiene only
+25686304,2016,RCT,adults with insomnia,meditation/mindfulness,depression,sleep hygiene only
+25686304,2016,RCT,insomnia patients,meditation/mindfulness,depression,sleep hygiene only
+25686304,2016,RCT,MS patients,meditation/mindfulness,depression,sleep hygiene only
+25686304,2016,RCT,older adults,meditation/mindfulness,sleep hygiene behaviour,sleep hygiene only
+25686304,2016,RCT,adults with insomnia,meditation/mindfulness,sleep hygiene behaviour,sleep hygiene only
+25686304,2016,RCT,insomnia patients,meditation/mindfulness,sleep hygiene behaviour,sleep hygiene only
+25686304,2016,RCT,MS patients,meditation/mindfulness,sleep hygiene behaviour,sleep hygiene only
+24413724,2016,RCT,MS patients,sleep hygiene education,sleep quality (PSQI),control group
+24413724,2016,RCT,MS patients,sleep hygiene education,sleep hygiene behaviour,control group
+24413724,2016,RCT,MS patients,pharmacotherapy,sleep quality (PSQI),control group
+24413724,2016,RCT,MS patients,pharmacotherapy,sleep hygiene behaviour,control group
+24875654,2016,RCT,insomnia patients,CBT-I,sleep quality (PSQI),not specified
+24875654,2016,RCT,insomnia patients,CBT-I,polysomnography,not specified
+24875654,2016,RCT,insomnia patients,CBT-I,sleep efficiency,not specified
+24911577,2016,RCT,insomnia patients,benzodiazepines,polysomnography,placebo
+24911577,2016,RCT,insomnia patients,benzodiazepines,wake after sleep onset,placebo
+24911577,2016,RCT,insomnia patients,benzodiazepines,total sleep time,placebo
+24911577,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+24911577,2016,RCT,insomnia patients,placebo,wake after sleep onset,placebo
+24911577,2016,RCT,insomnia patients,placebo,total sleep time,placebo
+24340290,2016,RCT,older adults,sleep restriction therapy,sleep onset latency,not specified
+24340290,2016,RCT,adults with insomnia,sleep restriction therapy,sleep onset latency,not specified
+24340290,2016,RCT,women,sleep restriction therapy,sleep onset latency,not specified
+24340290,2016,RCT,older adults,sleep restriction therapy,anxiety,not specified
+24340290,2016,RCT,adults with insomnia,sleep restriction therapy,anxiety,not specified
+24340290,2016,RCT,women,sleep restriction therapy,anxiety,not specified
+24340290,2016,RCT,older adults,sleep restriction therapy,sleep efficiency,not specified
+24340290,2016,RCT,adults with insomnia,sleep restriction therapy,sleep efficiency,not specified
+24340290,2016,RCT,women,sleep restriction therapy,sleep efficiency,not specified
+24340290,2016,RCT,older adults,sleep restriction therapy,sleep quality (PSQI),not specified
+24340290,2016,RCT,adults with insomnia,sleep restriction therapy,sleep quality (PSQI),not specified
+24340290,2016,RCT,women,sleep restriction therapy,sleep quality (PSQI),not specified
+24340290,2016,RCT,older adults,sleep restriction therapy,depression,not specified
+24340290,2016,RCT,adults with insomnia,sleep restriction therapy,depression,not specified
+24340290,2016,RCT,women,sleep restriction therapy,depression,not specified
+24340290,2016,RCT,older adults,sleep restriction therapy,polysomnography,not specified
+24340290,2016,RCT,adults with insomnia,sleep restriction therapy,polysomnography,not specified
+24340290,2016,RCT,women,sleep restriction therapy,polysomnography,not specified
+24971004,2016,RCT,comorbid insomnia,prolonged-release melatonin,safety,placebo
+24971004,2016,RCT,women,prolonged-release melatonin,safety,placebo
+24971004,2016,RCT,dementia patients,prolonged-release melatonin,safety,placebo
+24971004,2016,RCT,comorbid insomnia,prolonged-release melatonin,adverse events,placebo
+24971004,2016,RCT,women,prolonged-release melatonin,adverse events,placebo
+24971004,2016,RCT,dementia patients,prolonged-release melatonin,adverse events,placebo
+24971004,2016,RCT,comorbid insomnia,prolonged-release melatonin,sleep efficiency,placebo
+24971004,2016,RCT,women,prolonged-release melatonin,sleep efficiency,placebo
+24971004,2016,RCT,dementia patients,prolonged-release melatonin,sleep efficiency,placebo
+24971004,2016,RCT,comorbid insomnia,prolonged-release melatonin,sleep quality (PSQI),placebo
+24971004,2016,RCT,women,prolonged-release melatonin,sleep quality (PSQI),placebo
+24971004,2016,RCT,dementia patients,prolonged-release melatonin,sleep quality (PSQI),placebo
+24971004,2016,RCT,comorbid insomnia,prolonged-release melatonin,cognitive function,placebo
+24971004,2016,RCT,women,prolonged-release melatonin,cognitive function,placebo
+24971004,2016,RCT,dementia patients,prolonged-release melatonin,cognitive function,placebo
+24971004,2016,RCT,comorbid insomnia,melatonin,safety,placebo
+24971004,2016,RCT,women,melatonin,safety,placebo
+24971004,2016,RCT,dementia patients,melatonin,safety,placebo
+24971004,2016,RCT,comorbid insomnia,melatonin,adverse events,placebo
+24971004,2016,RCT,women,melatonin,adverse events,placebo
+24971004,2016,RCT,dementia patients,melatonin,adverse events,placebo
+24971004,2016,RCT,comorbid insomnia,melatonin,sleep efficiency,placebo
+24971004,2016,RCT,women,melatonin,sleep efficiency,placebo
+24971004,2016,RCT,dementia patients,melatonin,sleep efficiency,placebo
+24971004,2016,RCT,comorbid insomnia,melatonin,sleep quality (PSQI),placebo
+24971004,2016,RCT,women,melatonin,sleep quality (PSQI),placebo
+24971004,2016,RCT,dementia patients,melatonin,sleep quality (PSQI),placebo
+24971004,2016,RCT,comorbid insomnia,melatonin,cognitive function,placebo
+24971004,2016,RCT,women,melatonin,cognitive function,placebo
+24971004,2016,RCT,dementia patients,melatonin,cognitive function,placebo
+24971004,2016,RCT,comorbid insomnia,placebo,safety,placebo
+24971004,2016,RCT,women,placebo,safety,placebo
+24971004,2016,RCT,dementia patients,placebo,safety,placebo
+24971004,2016,RCT,comorbid insomnia,placebo,adverse events,placebo
+24971004,2016,RCT,women,placebo,adverse events,placebo
+24971004,2016,RCT,dementia patients,placebo,adverse events,placebo
+24971004,2016,RCT,comorbid insomnia,placebo,sleep efficiency,placebo
+24971004,2016,RCT,women,placebo,sleep efficiency,placebo
+24971004,2016,RCT,dementia patients,placebo,sleep efficiency,placebo
+24971004,2016,RCT,comorbid insomnia,placebo,sleep quality (PSQI),placebo
+24971004,2016,RCT,women,placebo,sleep quality (PSQI),placebo
+24971004,2016,RCT,dementia patients,placebo,sleep quality (PSQI),placebo
+24971004,2016,RCT,comorbid insomnia,placebo,cognitive function,placebo
+24971004,2016,RCT,women,placebo,cognitive function,placebo
+24971004,2016,RCT,dementia patients,placebo,cognitive function,placebo
+24433249,2016,RCT,comorbid insomnia,psychoeducation,polysomnography,not specified
+24433249,2016,RCT,comorbid insomnia,psychoeducation,actigraphy,not specified
+24433249,2016,RCT,comorbid insomnia,psychoeducation,depression,not specified
+24433249,2016,RCT,comorbid insomnia,CBT-I,polysomnography,not specified
+24433249,2016,RCT,comorbid insomnia,CBT-I,actigraphy,not specified
+24433249,2016,RCT,comorbid insomnia,CBT-I,depression,not specified
+24433249,2016,RCT,comorbid insomnia,pharmacotherapy,polysomnography,not specified
+24433249,2016,RCT,comorbid insomnia,pharmacotherapy,actigraphy,not specified
+24433249,2016,RCT,comorbid insomnia,pharmacotherapy,depression,not specified
+24433249,2016,RCT,comorbid insomnia,sleep restriction therapy,polysomnography,not specified
+24433249,2016,RCT,comorbid insomnia,sleep restriction therapy,actigraphy,not specified
+24433249,2016,RCT,comorbid insomnia,sleep restriction therapy,depression,not specified
+25623343,2016,RCT,MS patients,CBT-I,polysomnography,placebo
+25623343,2016,RCT,MS patients,CBT-I,wake after sleep onset,placebo
+25623343,2016,RCT,MS patients,CBT-I,pain,placebo
+25623343,2016,RCT,MS patients,placebo,polysomnography,placebo
+25623343,2016,RCT,MS patients,placebo,wake after sleep onset,placebo
+25623343,2016,RCT,MS patients,placebo,pain,placebo
+25317091,2016,RCT,insomnia patients,placebo,total sleep time,placebo
+25317091,2016,RCT,insomnia patients,placebo,adverse events,placebo
+25317091,2016,RCT,insomnia patients,placebo,sleep quality (PSQI),placebo
+25317091,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+25317091,2016,RCT,insomnia patients,placebo,wake after sleep onset,placebo
+24747978,2016,RCT,MS patients,placebo,sleep onset latency,placebo
+24747978,2016,RCT,MS patients,placebo,anxiety,placebo
+24747978,2016,RCT,MS patients,placebo,sleep onset time,placebo
+24747978,2016,RCT,MS patients,placebo,sleep efficiency,placebo
+24747978,2016,RCT,MS patients,placebo,sleep quality (PSQI),placebo
+24747978,2016,RCT,MS patients,placebo,polysomnography,placebo
+24747978,2016,RCT,MS patients,placebo,wake after sleep onset,placebo
+24747978,2016,RCT,MS patients,placebo,insomnia severity (ISI),placebo
+24899755,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+24899755,2016,RCT,insomnia patients,placebo,wake after sleep onset,placebo
+24899755,2016,RCT,insomnia patients,placebo,total sleep time,placebo
+24899755,2016,RCT,insomnia patients,placebo,insomnia severity (ISI),placebo
+24293756,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+24293756,2016,RCT,insomnia patients,placebo,wake after sleep onset,placebo
+24293756,2016,RCT,insomnia patients,placebo,total sleep time,placebo
+24293756,2016,RCT,insomnia patients,placebo,adverse events,placebo
+25452447,2016,RCT,cancer survivors,sleep hygiene education,sleep quality (PSQI),placebo
+25452447,2016,RCT,women,sleep hygiene education,sleep quality (PSQI),placebo
+25452447,2016,RCT,cancer survivors,sleep hygiene education,sleep hygiene behaviour,placebo
+25452447,2016,RCT,women,sleep hygiene education,sleep hygiene behaviour,placebo
+25452447,2016,RCT,cancer survivors,sleep hygiene education,daytime functioning,placebo
+25452447,2016,RCT,women,sleep hygiene education,daytime functioning,placebo
+25452447,2016,RCT,cancer survivors,sleep hygiene education,insomnia severity (ISI),placebo
+25452447,2016,RCT,women,sleep hygiene education,insomnia severity (ISI),placebo
+25452447,2016,RCT,cancer survivors,CBT-I,sleep quality (PSQI),placebo
+25452447,2016,RCT,women,CBT-I,sleep quality (PSQI),placebo
+25452447,2016,RCT,cancer survivors,CBT-I,sleep hygiene behaviour,placebo
+25452447,2016,RCT,women,CBT-I,sleep hygiene behaviour,placebo
+25452447,2016,RCT,cancer survivors,CBT-I,daytime functioning,placebo
+25452447,2016,RCT,women,CBT-I,daytime functioning,placebo
+25452447,2016,RCT,cancer survivors,CBT-I,insomnia severity (ISI),placebo
+25452447,2016,RCT,women,CBT-I,insomnia severity (ISI),placebo
+25452447,2016,RCT,cancer survivors,placebo,sleep quality (PSQI),placebo
+25452447,2016,RCT,women,placebo,sleep quality (PSQI),placebo
+25452447,2016,RCT,cancer survivors,placebo,sleep hygiene behaviour,placebo
+25452447,2016,RCT,women,placebo,sleep hygiene behaviour,placebo
+25452447,2016,RCT,cancer survivors,placebo,daytime functioning,placebo
+25452447,2016,RCT,women,placebo,daytime functioning,placebo
+25452447,2016,RCT,cancer survivors,placebo,insomnia severity (ISI),placebo
+25452447,2016,RCT,women,placebo,insomnia severity (ISI),placebo
+24604461,2016,RCT,women,CBT-I,sleep quality (PSQI),control group
+24604461,2016,RCT,women,CBT-I,depression,control group
+24604461,2016,RCT,women,CBT-I,sleep efficiency,control group
+25142571,2016,RCT,older adults,CBT-I,sleep quality (PSQI),not specified
+25142571,2016,RCT,adults with insomnia,CBT-I,sleep quality (PSQI),not specified
+25142571,2016,RCT,MS patients,CBT-I,sleep quality (PSQI),not specified
+25142571,2016,RCT,older adults,CBT-I,polysomnography,not specified
+25142571,2016,RCT,adults with insomnia,CBT-I,polysomnography,not specified
+25142571,2016,RCT,MS patients,CBT-I,polysomnography,not specified
+25142571,2016,RCT,older adults,CBT-I,fatigue,not specified
+25142571,2016,RCT,adults with insomnia,CBT-I,fatigue,not specified
+25142571,2016,RCT,MS patients,CBT-I,fatigue,not specified
+25647773,2016,RCT,insomnia patients,melatonin,polysomnography,control group
+25647773,2016,RCT,insomnia patients,melatonin,total sleep time,control group
+25083010,2016,RCT,MS patients,CBT-I,actigraphy,not specified
+25083010,2016,RCT,insomnia patients,CBT-I,actigraphy,not specified
+25083010,2016,RCT,cancer survivors,CBT-I,actigraphy,not specified
+25083010,2016,RCT,women,CBT-I,actigraphy,not specified
+25083010,2016,RCT,MS patients,CBT-I,depression,not specified
+25083010,2016,RCT,insomnia patients,CBT-I,depression,not specified
+25083010,2016,RCT,cancer survivors,CBT-I,depression,not specified
+25083010,2016,RCT,women,CBT-I,depression,not specified
+25083010,2016,RCT,MS patients,CBT-I,fatigue,not specified
+25083010,2016,RCT,insomnia patients,CBT-I,fatigue,not specified
+25083010,2016,RCT,cancer survivors,CBT-I,fatigue,not specified
+25083010,2016,RCT,women,CBT-I,fatigue,not specified
+25083010,2016,RCT,MS patients,CBT-I,insomnia severity (ISI),not specified
+25083010,2016,RCT,insomnia patients,CBT-I,insomnia severity (ISI),not specified
+25083010,2016,RCT,cancer survivors,CBT-I,insomnia severity (ISI),not specified
+25083010,2016,RCT,women,CBT-I,insomnia severity (ISI),not specified
+25135124,2016,RCT,MS patients,melatonin,sleep quality (PSQI),placebo
+25135124,2016,RCT,MS patients,melatonin,polysomnography,placebo
+25135124,2016,RCT,MS patients,melatonin,anxiety,placebo
+25135124,2016,RCT,MS patients,placebo,sleep quality (PSQI),placebo
+25135124,2016,RCT,MS patients,placebo,polysomnography,placebo
+25135124,2016,RCT,MS patients,placebo,anxiety,placebo
+24559487,2016,RCT,MS patients,exercise,fatigue,control group
+24559487,2016,RCT,MS patients,exercise,quality of life,control group
+24559487,2016,RCT,MS patients,exercise,sleep quality (PSQI),control group
+24559487,2016,RCT,MS patients,exercise,pain,control group
+24559487,2016,RCT,MS patients,exercise,depression,control group
+24559487,2016,RCT,MS patients,exercise,polysomnography,control group
+24559487,2016,RCT,MS patients,exercise,insomnia severity (ISI),control group
+24559487,2016,RCT,MS patients,pharmacotherapy,fatigue,control group
+24559487,2016,RCT,MS patients,pharmacotherapy,quality of life,control group
+24559487,2016,RCT,MS patients,pharmacotherapy,sleep quality (PSQI),control group
+24559487,2016,RCT,MS patients,pharmacotherapy,pain,control group
+24559487,2016,RCT,MS patients,pharmacotherapy,depression,control group
+24559487,2016,RCT,MS patients,pharmacotherapy,polysomnography,control group
+24559487,2016,RCT,MS patients,pharmacotherapy,insomnia severity (ISI),control group
+25317090,2016,RCT,insomnia patients,placebo,total sleep time,placebo
+25317090,2016,RCT,insomnia patients,placebo,adverse events,placebo
+25317090,2016,RCT,insomnia patients,placebo,sleep quality (PSQI),placebo
+25317090,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+25317090,2016,RCT,insomnia patients,placebo,wake after sleep onset,placebo
+25030264,2016,RCT,MS patients,placebo,total sleep time,placebo
+25030264,2016,RCT,MS patients,placebo,sleep efficiency,placebo
+25030264,2016,RCT,MS patients,placebo,sleep quality (PSQI),placebo
+25030264,2016,RCT,MS patients,placebo,depression,placebo
+25030264,2016,RCT,MS patients,placebo,polysomnography,placebo
+25171195,2016,RCT,children/adolescents,placebo,polysomnography,placebo
+25171195,2016,RCT,children/adolescents,placebo,actigraphy,placebo
+25171195,2016,RCT,children/adolescents,placebo,total sleep time,placebo
+25171195,2016,RCT,children/adolescents,placebo,sleep efficiency,placebo
+24916951,2016,RCT,menopausal women,exercise,sleep quality (PSQI),control group
+24916951,2016,RCT,cancer survivors,exercise,sleep quality (PSQI),control group
+24916951,2016,RCT,menopausal women,exercise,fatigue,control group
+24916951,2016,RCT,cancer survivors,exercise,fatigue,control group
+24522288,2016,RCT,insomnia patients,sleep hygiene education,actigraphy,not specified
+24522288,2016,RCT,insomnia patients,sleep hygiene education,sleep hygiene behaviour,not specified
+24280464,2016,RCT,insomnia patients,relaxation therapy,sleep quality (PSQI),control group
+25515106,2016,RCT,MS patients,CBT-I,insomnia severity (ISI),waitlist
+25515106,2016,RCT,chronic insomnia,CBT-I,insomnia severity (ISI),waitlist
+25515106,2016,RCT,insomnia patients,CBT-I,insomnia severity (ISI),waitlist
+25547247,2016,RCT,MS patients,melatonin,sleep quality (PSQI),control group
+25547247,2016,RCT,MS patients,melatonin,actigraphy,control group
+25547247,2016,RCT,MS patients,melatonin,chronotype,control group
+25547247,2016,RCT,MS patients,melatonin,depression,control group
+24470706,2016,RCT,Parkinson patients,placebo,polysomnography,placebo
+24470706,2016,RCT,women,placebo,polysomnography,placebo
+24470706,2016,RCT,Parkinson patients,placebo,daytime functioning,placebo
+24470706,2016,RCT,women,placebo,daytime functioning,placebo
+24470706,2016,RCT,Parkinson patients,placebo,sleep efficiency,placebo
+24470706,2016,RCT,women,placebo,sleep efficiency,placebo
+25325454,2016,RCT,menopausal women,placebo,sleep quality (PSQI),placebo
+25325454,2016,RCT,insomnia patients,placebo,sleep quality (PSQI),placebo
+25325454,2016,RCT,MS patients,placebo,sleep quality (PSQI),placebo
+25325454,2016,RCT,women,placebo,sleep quality (PSQI),placebo
+25325454,2016,RCT,menopausal women,placebo,insomnia severity (ISI),placebo
+25325454,2016,RCT,insomnia patients,placebo,insomnia severity (ISI),placebo
+25325454,2016,RCT,MS patients,placebo,insomnia severity (ISI),placebo
+25325454,2016,RCT,women,placebo,insomnia severity (ISI),placebo
+24559816,2016,RCT,older adults,placebo,sleep quality (PSQI),control group
+24559816,2016,RCT,older adults,placebo,depression,control group
+24252173,2016,RCT,MS patients,sleep hygiene education,sleep quality (PSQI),control group
+24252173,2016,RCT,women,sleep hygiene education,sleep quality (PSQI),control group
+24252173,2016,RCT,insomnia patients,sleep hygiene education,sleep quality (PSQI),control group
+24252173,2016,RCT,adolescents,sleep hygiene education,sleep quality (PSQI),control group
+24252173,2016,RCT,MS patients,sleep hygiene education,actigraphy,control group
+24252173,2016,RCT,women,sleep hygiene education,actigraphy,control group
+24252173,2016,RCT,insomnia patients,sleep hygiene education,actigraphy,control group
+24252173,2016,RCT,adolescents,sleep hygiene education,actigraphy,control group
+24252173,2016,RCT,MS patients,sleep hygiene education,daytime functioning,control group
+24252173,2016,RCT,women,sleep hygiene education,daytime functioning,control group
+24252173,2016,RCT,insomnia patients,sleep hygiene education,daytime functioning,control group
+24252173,2016,RCT,adolescents,sleep hygiene education,daytime functioning,control group
+24252173,2016,RCT,MS patients,sleep hygiene education,sleep hygiene behaviour,control group
+24252173,2016,RCT,women,sleep hygiene education,sleep hygiene behaviour,control group
+24252173,2016,RCT,insomnia patients,sleep hygiene education,sleep hygiene behaviour,control group
+24252173,2016,RCT,adolescents,sleep hygiene education,sleep hygiene behaviour,control group
+24680372,2016,RCT,MS patients,suvorexant,safety,placebo
+24680372,2016,RCT,MS patients,suvorexant,total sleep time,placebo
+24680372,2016,RCT,MS patients,suvorexant,adverse events,placebo
+24680372,2016,RCT,MS patients,placebo,safety,placebo
+24680372,2016,RCT,MS patients,placebo,total sleep time,placebo
+24680372,2016,RCT,MS patients,placebo,adverse events,placebo
+24627301,2016,RCT,insomnia patients,benzodiazepines,insomnia severity (ISI),placebo
+24627301,2016,RCT,insomnia patients,placebo,insomnia severity (ISI),placebo
+24791643,2016,RCT,MS patients,CBT-I,depression,placebo
+24791643,2016,RCT,insomnia patients,CBT-I,depression,placebo
+24791643,2016,RCT,MS patients,CBT-I,anxiety,placebo
+24791643,2016,RCT,insomnia patients,CBT-I,anxiety,placebo
+24791643,2016,RCT,MS patients,CBT-I,sleep efficiency,placebo
+24791643,2016,RCT,insomnia patients,CBT-I,sleep efficiency,placebo
+24791643,2016,RCT,MS patients,placebo,depression,placebo
+24791643,2016,RCT,insomnia patients,placebo,depression,placebo
+24791643,2016,RCT,MS patients,placebo,anxiety,placebo
+24791643,2016,RCT,insomnia patients,placebo,anxiety,placebo
+24791643,2016,RCT,MS patients,placebo,sleep efficiency,placebo
+24791643,2016,RCT,insomnia patients,placebo,sleep efficiency,placebo
+24634631,2016,RCT,older adults,placebo,sleep quality (PSQI),placebo
+24634631,2016,RCT,older adults,placebo,polysomnography,placebo
+24634631,2016,RCT,older adults,placebo,fatigue,placebo
+24634631,2016,RCT,older adults,placebo,pain,placebo
+24318654,2016,RCT,cancer survivors,psychoeducation,sleep quality (PSQI),control group
+24318654,2016,RCT,women,psychoeducation,sleep quality (PSQI),control group
+24318654,2016,RCT,cancer survivors,psychoeducation,anxiety,control group
+24318654,2016,RCT,women,psychoeducation,anxiety,control group
+24318654,2016,RCT,cancer survivors,psychoeducation,fatigue,control group
+24318654,2016,RCT,women,psychoeducation,fatigue,control group
+25454802,2016,RCT,MS patients,placebo,quality of life,placebo
+25454802,2016,RCT,MS patients,placebo,insomnia severity (ISI),placebo
+24497658,2016,RCT,older adults,CBT-I,pain,not specified
+24497658,2016,RCT,adults with insomnia,CBT-I,pain,not specified
+24497658,2016,RCT,insomnia patients,CBT-I,pain,not specified
+24497658,2016,RCT,MS patients,CBT-I,pain,not specified
+24497658,2016,RCT,older adults,CBT-I,sleep efficiency,not specified
+24497658,2016,RCT,adults with insomnia,CBT-I,sleep efficiency,not specified
+24497658,2016,RCT,insomnia patients,CBT-I,sleep efficiency,not specified
+24497658,2016,RCT,MS patients,CBT-I,sleep efficiency,not specified
+24497658,2016,RCT,older adults,CBT-I,insomnia severity (ISI),not specified
+24497658,2016,RCT,adults with insomnia,CBT-I,insomnia severity (ISI),not specified
+24497658,2016,RCT,insomnia patients,CBT-I,insomnia severity (ISI),not specified
+24497658,2016,RCT,MS patients,CBT-I,insomnia severity (ISI),not specified
+26030264,2016,RCT,MS patients,placebo,daytime functioning,placebo
+26030264,2016,RCT,MS patients,placebo,quality of life,placebo
+24495406,2016,RCT,dementia patients,placebo,actigraphy,placebo
+24495406,2016,RCT,dementia patients,placebo,safety,placebo
+24495406,2016,RCT,dementia patients,placebo,daytime functioning,placebo
+24495406,2016,RCT,dementia patients,placebo,adverse events,placebo
+24518285,2016,RCT,insomnia patients,placebo,sleep quality (PSQI),placebo
+24518285,2016,RCT,insomnia patients,placebo,quality of life,placebo
+24717254,2016,RCT,women,placebo,cognitive function,placebo
+24398115,2016,RCT,insomnia patients,exercise,sleep quality (PSQI),not specified
+24398115,2016,RCT,insomnia patients,exercise,anxiety,not specified
+24398115,2016,RCT,insomnia patients,exercise,depression,not specified
+24398115,2016,RCT,insomnia patients,exercise,pain,not specified
+24687640,2016,RCT,MS patients,placebo,sleep quality (PSQI),placebo
+24687640,2016,RCT,women,placebo,sleep quality (PSQI),placebo
+24687640,2016,RCT,MS patients,placebo,sleep efficiency,placebo
+24687640,2016,RCT,women,placebo,sleep efficiency,placebo
+24882900,2016,RCT,women,placebo,depression,placebo
+24882900,2016,RCT,women,placebo,total sleep time,placebo
+24882900,2016,RCT,women,placebo,pain,placebo
+25364070,2016,RCT,women,sleep restriction therapy,polysomnography,not specified
+25364070,2016,RCT,women,sleep restriction therapy,wake after sleep onset,not specified
+25364070,2016,RCT,women,sleep restriction therapy,fatigue,not specified
+24988965,2016,RCT,insomnia patients,melatonin,polysomnography,not specified
+24988965,2016,RCT,insomnia patients,melatonin,depression,not specified
+24988965,2016,RCT,insomnia patients,melatonin,quality of life,not specified
+25323219,2016,RCT,insomnia patients,placebo,sleep quality (PSQI),placebo
+25323219,2016,RCT,insomnia patients,placebo,total sleep time,placebo
+25323219,2016,RCT,insomnia patients,placebo,fatigue,placebo
+24315572,2016,RCT,insomnia patients,CBT-I,sleep quality (PSQI),placebo
+24315572,2016,RCT,insomnia patients,CBT-I,total sleep time,placebo
+24315572,2016,RCT,insomnia patients,CBT-I,polysomnography,placebo
+24315572,2016,RCT,insomnia patients,placebo,sleep quality (PSQI),placebo
+24315572,2016,RCT,insomnia patients,placebo,total sleep time,placebo
+24315572,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+25115507,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+25115507,2016,RCT,insomnia patients,placebo,total sleep time,placebo
+25115507,2016,RCT,insomnia patients,placebo,sleep onset latency,placebo
+25115507,2016,RCT,insomnia patients,placebo,sleep efficiency,placebo
+24918372,2016,RCT,insomnia patients,sleep hygiene education,sleep hygiene behaviour,control group
+25668196,2016,RCT,insomnia patients,sleep restriction therapy,polysomnography,not specified
+25668196,2016,RCT,insomnia patients,sleep restriction therapy,mental health,not specified
+24524214,2016,RCT,MS patients,CBT-I,depression,control group
+24524214,2016,RCT,MS patients,CBT-I,insomnia severity (ISI),control group
+24524214,2016,RCT,MS patients,digital CBT-I,depression,control group
+24524214,2016,RCT,MS patients,digital CBT-I,insomnia severity (ISI),control group
+24461370,2016,RCT,adults with insomnia,stimulus control,sleep hygiene behaviour,not specified
+24461370,2016,RCT,chronic insomnia,stimulus control,sleep hygiene behaviour,not specified
+24461370,2016,RCT,adults with insomnia,stimulus control,insomnia severity (ISI),not specified
+24461370,2016,RCT,chronic insomnia,stimulus control,insomnia severity (ISI),not specified
+24461370,2016,RCT,adults with insomnia,sleep hygiene education,sleep hygiene behaviour,not specified
+24461370,2016,RCT,chronic insomnia,sleep hygiene education,sleep hygiene behaviour,not specified
+24461370,2016,RCT,adults with insomnia,sleep hygiene education,insomnia severity (ISI),not specified
+24461370,2016,RCT,chronic insomnia,sleep hygiene education,insomnia severity (ISI),not specified
+24461370,2016,RCT,adults with insomnia,relaxation therapy,sleep hygiene behaviour,not specified
+24461370,2016,RCT,chronic insomnia,relaxation therapy,sleep hygiene behaviour,not specified
+24461370,2016,RCT,adults with insomnia,relaxation therapy,insomnia severity (ISI),not specified
+24461370,2016,RCT,chronic insomnia,relaxation therapy,insomnia severity (ISI),not specified
+24461370,2016,RCT,adults with insomnia,psychoeducation,sleep hygiene behaviour,not specified
+24461370,2016,RCT,chronic insomnia,psychoeducation,sleep hygiene behaviour,not specified
+24461370,2016,RCT,adults with insomnia,psychoeducation,insomnia severity (ISI),not specified
+24461370,2016,RCT,chronic insomnia,psychoeducation,insomnia severity (ISI),not specified
+24461370,2016,RCT,adults with insomnia,cognitive therapy,sleep hygiene behaviour,not specified
+24461370,2016,RCT,chronic insomnia,cognitive therapy,sleep hygiene behaviour,not specified
+24461370,2016,RCT,adults with insomnia,cognitive therapy,insomnia severity (ISI),not specified
+24461370,2016,RCT,chronic insomnia,cognitive therapy,insomnia severity (ISI),not specified
+24461370,2016,RCT,adults with insomnia,meditation/mindfulness,sleep hygiene behaviour,not specified
+24461370,2016,RCT,chronic insomnia,meditation/mindfulness,sleep hygiene behaviour,not specified
+24461370,2016,RCT,adults with insomnia,meditation/mindfulness,insomnia severity (ISI),not specified
+24461370,2016,RCT,chronic insomnia,meditation/mindfulness,insomnia severity (ISI),not specified
+24461370,2016,RCT,adults with insomnia,sleep restriction therapy,sleep hygiene behaviour,not specified
+24461370,2016,RCT,chronic insomnia,sleep restriction therapy,sleep hygiene behaviour,not specified
+24461370,2016,RCT,adults with insomnia,sleep restriction therapy,insomnia severity (ISI),not specified
+24461370,2016,RCT,chronic insomnia,sleep restriction therapy,insomnia severity (ISI),not specified
+24947878,2016,RCT,insomnia patients,exercise,polysomnography,control group
+25142566,2016,RCT,adults with insomnia,meditation/mindfulness,polysomnography,not specified
+25142566,2016,RCT,chronic insomnia,meditation/mindfulness,polysomnography,not specified
+25142566,2016,RCT,adults with insomnia,meditation/mindfulness,actigraphy,not specified
+25142566,2016,RCT,chronic insomnia,meditation/mindfulness,actigraphy,not specified
+25142566,2016,RCT,adults with insomnia,meditation/mindfulness,insomnia severity (ISI),not specified
+25142566,2016,RCT,chronic insomnia,meditation/mindfulness,insomnia severity (ISI),not specified
+26427106,2016,RCT,insomnia patients,pharmacotherapy,sleep quality (PSQI),control group
+24458543,2016,RCT,MS patients,CBT-I,depression,not specified
+24458543,2016,RCT,MS patients,CBT-I,anxiety,not specified
+24458543,2016,RCT,MS patients,CBT-I,fatigue,not specified
+25024657,2016,RCT,MS patients,sleep hygiene education,sleep hygiene behaviour,control group
+24398053,2016,RCT,insomnia patients,benzodiazepines,actigraphy,placebo
+24398053,2016,RCT,insomnia patients,benzodiazepines,pain,placebo
+24398053,2016,RCT,insomnia patients,benzodiazepines,adverse events,placebo
+24398053,2016,RCT,insomnia patients,benzodiazepines,insomnia severity (ISI),placebo
+24398053,2016,RCT,insomnia patients,placebo,actigraphy,placebo
+24398053,2016,RCT,insomnia patients,placebo,pain,placebo
+24398053,2016,RCT,insomnia patients,placebo,adverse events,placebo
+24398053,2016,RCT,insomnia patients,placebo,insomnia severity (ISI),placebo
+25066140,2016,RCT,insomnia patients,melatonin,sleep quality (PSQI),not specified
+25066140,2016,RCT,insomnia patients,melatonin,depression,not specified
+25066140,2016,RCT,insomnia patients,melatonin,insomnia severity (ISI),not specified
+24932147,2016,RCT,children/adolescents,placebo,polysomnography,placebo
+24932147,2016,RCT,MS patients,placebo,polysomnography,placebo
+24932147,2016,RCT,children/adolescents,placebo,quality of life,placebo
+24932147,2016,RCT,MS patients,placebo,quality of life,placebo
+24811331,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+24512477,2016,RCT,chronic insomnia,sleep hygiene education,actigraphy,sleep hygiene only
+24512477,2016,RCT,chronic insomnia,sleep hygiene education,sleep hygiene behaviour,sleep hygiene only
+24512477,2016,RCT,chronic insomnia,meditation/mindfulness,actigraphy,sleep hygiene only
+24512477,2016,RCT,chronic insomnia,meditation/mindfulness,sleep hygiene behaviour,sleep hygiene only
+24424704,2016,RCT,women,placebo,polysomnography,placebo
+24424704,2016,RCT,women,placebo,sleep onset latency,placebo
+24424704,2016,RCT,women,placebo,adverse events,placebo
+24424704,2016,RCT,women,placebo,safety,placebo
+25335247,2016,RCT,insomnia patients,placebo,sleep quality (PSQI),placebo
+25022743,2016,RCT,children/adolescents,placebo,actigraphy,placebo
+25022743,2016,RCT,MS patients,placebo,actigraphy,placebo
+25022743,2016,RCT,ASD population,placebo,actigraphy,placebo
+25022743,2016,RCT,children/adolescents,placebo,total sleep time,placebo
+25022743,2016,RCT,MS patients,placebo,total sleep time,placebo
+25022743,2016,RCT,ASD population,placebo,total sleep time,placebo
+25022743,2016,RCT,children/adolescents,placebo,adverse events,placebo
+25022743,2016,RCT,MS patients,placebo,adverse events,placebo
+25022743,2016,RCT,ASD population,placebo,adverse events,placebo
+25022743,2016,RCT,children/adolescents,placebo,sleep efficiency,placebo
+25022743,2016,RCT,MS patients,placebo,sleep efficiency,placebo
+25022743,2016,RCT,ASD population,placebo,sleep efficiency,placebo
+24326088,2016,RCT,MS patients,placebo,polysomnography,placebo
+24326088,2016,RCT,women,placebo,polysomnography,placebo
+24326088,2016,RCT,MS patients,placebo,sleep efficiency,placebo
+24326088,2016,RCT,women,placebo,sleep efficiency,placebo
+25376160,2016,RCT,insomnia patients,placebo,sleep quality (PSQI),placebo
+25376160,2016,RCT,insomnia patients,placebo,safety,placebo
+25376160,2016,RCT,insomnia patients,placebo,depression,placebo
+24710341,2016,RCT,insomnia patients,benzodiazepines,sleep quality (PSQI),placebo
+24710341,2016,RCT,insomnia patients,benzodiazepines,polysomnography,placebo
+24710341,2016,RCT,insomnia patients,placebo,sleep quality (PSQI),placebo
+24710341,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+26132682,2016,RCT,MS patients,placebo,anxiety,placebo
+26132682,2016,RCT,MS patients,placebo,safety,placebo
+26132682,2016,RCT,MS patients,placebo,adverse events,placebo
+26132682,2016,RCT,MS patients,placebo,sleep efficiency,placebo
+26132682,2016,RCT,MS patients,placebo,actigraphy,placebo
+26132682,2016,RCT,MS patients,placebo,daytime functioning,placebo
+24532997,2016,RCT,women,placebo,sleep onset latency,placebo
+24532997,2016,RCT,women,placebo,adverse events,placebo
+24886638,2016,RCT,MS patients,exercise,sleep quality (PSQI),waitlist
+24886638,2016,RCT,women,exercise,sleep quality (PSQI),waitlist
+24886638,2016,RCT,MS patients,exercise,pain,waitlist
+24886638,2016,RCT,women,exercise,pain,waitlist
+24886638,2016,RCT,MS patients,exercise,adverse events,waitlist
+24886638,2016,RCT,women,exercise,adverse events,waitlist
+24886638,2016,RCT,MS patients,exercise,quality of life,waitlist
+24886638,2016,RCT,women,exercise,quality of life,waitlist
+25266438,2016,RCT,children/adolescents,placebo,polysomnography,placebo
+25266438,2016,RCT,ADHD population,placebo,polysomnography,placebo
+25266438,2016,RCT,adolescents,placebo,polysomnography,placebo
+25266438,2016,RCT,children/adolescents,placebo,safety,placebo
+25266438,2016,RCT,ADHD population,placebo,safety,placebo
+25266438,2016,RCT,adolescents,placebo,safety,placebo
+25266438,2016,RCT,children/adolescents,placebo,adverse events,placebo
+25266438,2016,RCT,ADHD population,placebo,adverse events,placebo
+25266438,2016,RCT,adolescents,placebo,adverse events,placebo
+25124303,2016,RCT,MS patients,CBT-I,polysomnography,placebo
+25124303,2016,RCT,MS patients,CBT-I,total sleep time,placebo
+25124303,2016,RCT,MS patients,placebo,polysomnography,placebo
+25124303,2016,RCT,MS patients,placebo,total sleep time,placebo
+25897569,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+25897569,2016,RCT,insomnia patients,placebo,insomnia severity (ISI),placebo
+25052847,2016,RCT,MS patients,melatonin,sleep quality (PSQI),not specified
+25052847,2016,RCT,women,melatonin,sleep quality (PSQI),not specified
+25052847,2016,RCT,MS patients,melatonin,pain,not specified
+25052847,2016,RCT,women,melatonin,pain,not specified
+25052847,2016,RCT,MS patients,melatonin,insomnia severity (ISI),not specified
+25052847,2016,RCT,women,melatonin,insomnia severity (ISI),not specified
+25646809,2016,RCT,children/adolescents,sleep hygiene education,sleep onset latency,control group
+25646809,2016,RCT,ADHD population,sleep hygiene education,sleep onset latency,control group
+25646809,2016,RCT,MS patients,sleep hygiene education,sleep onset latency,control group
+25646809,2016,RCT,children/adolescents,sleep hygiene education,anxiety,control group
+25646809,2016,RCT,ADHD population,sleep hygiene education,anxiety,control group
+25646809,2016,RCT,MS patients,sleep hygiene education,anxiety,control group
+25646809,2016,RCT,children/adolescents,sleep hygiene education,mental health,control group
+25646809,2016,RCT,ADHD population,sleep hygiene education,mental health,control group
+25646809,2016,RCT,MS patients,sleep hygiene education,mental health,control group
+25646809,2016,RCT,children/adolescents,sleep hygiene education,quality of life,control group
+25646809,2016,RCT,ADHD population,sleep hygiene education,quality of life,control group
+25646809,2016,RCT,MS patients,sleep hygiene education,quality of life,control group
+25646809,2016,RCT,children/adolescents,sleep hygiene education,actigraphy,control group
+25646809,2016,RCT,ADHD population,sleep hygiene education,actigraphy,control group
+25646809,2016,RCT,MS patients,sleep hygiene education,actigraphy,control group
+25646809,2016,RCT,children/adolescents,sleep hygiene education,depression,control group
+25646809,2016,RCT,ADHD population,sleep hygiene education,depression,control group
+25646809,2016,RCT,MS patients,sleep hygiene education,depression,control group
+25646809,2016,RCT,children/adolescents,sleep hygiene education,sleep hygiene behaviour,control group
+25646809,2016,RCT,ADHD population,sleep hygiene education,sleep hygiene behaviour,control group
+25646809,2016,RCT,MS patients,sleep hygiene education,sleep hygiene behaviour,control group
+24463982,2016,RCT,MS patients,placebo,polysomnography,placebo
+24440643,2016,RCT,MS patients,exercise,sleep quality (PSQI),not specified
+24440643,2016,RCT,women,exercise,sleep quality (PSQI),not specified
+24440643,2016,RCT,MS patients,exercise,total sleep time,not specified
+24440643,2016,RCT,women,exercise,total sleep time,not specified
+24440643,2016,RCT,MS patients,exercise,depression,not specified
+24440643,2016,RCT,women,exercise,depression,not specified
+24440643,2016,RCT,MS patients,exercise,quality of life,not specified
+24440643,2016,RCT,women,exercise,quality of life,not specified
+24823456,2016,RCT,insomnia patients,sleep restriction therapy,sleep onset latency,not specified
+24251826,2016,RCT,MS patients,placebo,polysomnography,placebo
+24251826,2016,RCT,MS patients,placebo,sleep onset latency,placebo
+26094838,2016,RCT,insomnia patients,placebo,sleep quality (PSQI),placebo
+26094838,2016,RCT,insomnia patients,placebo,adverse events,placebo
+24991933,2016,RCT,insomnia patients,exercise,polysomnography,placebo
+24991933,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+24733990,2016,RCT,chronic insomnia,CBT-I,depression,not specified
+24733990,2016,RCT,chronic insomnia,CBT-I,mental health,not specified
+24733990,2016,RCT,chronic insomnia,CBT-I,quality of life,not specified
+25197804,2016,RCT,insomnia patients,pharmacotherapy,polysomnography,placebo
+25197804,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+25439417,2016,RCT,women,melatonin,sleep quality (PSQI),placebo
+25439417,2016,RCT,women,melatonin,pain,placebo
+25439417,2016,RCT,women,melatonin,insomnia severity (ISI),placebo
+25439417,2016,RCT,women,placebo,sleep quality (PSQI),placebo
+25439417,2016,RCT,women,placebo,pain,placebo
+25439417,2016,RCT,women,placebo,insomnia severity (ISI),placebo
+25074944,2016,RCT,insomnia patients,exercise,sleep quality (PSQI),not specified
+25074944,2016,RCT,insomnia patients,exercise,polysomnography,not specified
+25074944,2016,RCT,insomnia patients,exercise,quality of life,not specified
+24235903,2016,RCT,insomnia patients,sleep hygiene education,sleep hygiene behaviour,placebo
+24235903,2016,RCT,insomnia patients,sleep hygiene education,total sleep time,placebo
+24235903,2016,RCT,insomnia patients,placebo,sleep hygiene behaviour,placebo
+24235903,2016,RCT,insomnia patients,placebo,total sleep time,placebo
+24889207,2016,RCT,adolescents,sleep restriction therapy,actigraphy,not specified
+24889207,2016,RCT,adolescents,sleep restriction therapy,depression,not specified
+24889207,2016,RCT,adolescents,sleep restriction therapy,fatigue,not specified
+24891081,2016,RCT,young adults,sleep restriction therapy,actigraphy,not specified
+24891081,2016,RCT,MS patients,sleep restriction therapy,actigraphy,not specified
+24891081,2016,RCT,women,sleep restriction therapy,actigraphy,not specified
+24891081,2016,RCT,young adults,sleep restriction therapy,depression,not specified
+24891081,2016,RCT,MS patients,sleep restriction therapy,depression,not specified
+24891081,2016,RCT,women,sleep restriction therapy,depression,not specified
+24891081,2016,RCT,young adults,sleep restriction therapy,fatigue,not specified
+24891081,2016,RCT,MS patients,sleep restriction therapy,fatigue,not specified
+24891081,2016,RCT,women,sleep restriction therapy,fatigue,not specified
+24237188,2016,RCT,cancer survivors,placebo,sleep onset latency,placebo
+24237188,2016,RCT,cancer survivors,placebo,anxiety,placebo
+24237188,2016,RCT,cancer survivors,placebo,fatigue,placebo
+24237188,2016,RCT,cancer survivors,placebo,sleep quality (PSQI),placebo
+24237188,2016,RCT,cancer survivors,placebo,depression,placebo
+24993832,2016,RCT,MS patients,pharmacotherapy,sleep quality (PSQI),placebo
+24993832,2016,RCT,women,pharmacotherapy,sleep quality (PSQI),placebo
+24993832,2016,RCT,MS patients,placebo,sleep quality (PSQI),placebo
+24993832,2016,RCT,women,placebo,sleep quality (PSQI),placebo
+25337948,2016,RCT,comorbid insomnia,digital CBT-I,depression,not specified
+25337948,2016,RCT,comorbid insomnia,digital CBT-I,insomnia severity (ISI),not specified
+25367636,2016,RCT,MS patients,CBT-I,depression,not specified
+24569045,2016,RCT,MS patients,placebo,sleep quality (PSQI),placebo
+24569045,2016,RCT,MS patients,placebo,anxiety,placebo
+24569045,2016,RCT,MS patients,placebo,adverse events,placebo
+24710994,2016,RCT,MS patients,sleep hygiene education,depression,control group
+24710994,2016,RCT,women,sleep hygiene education,depression,control group
+24710994,2016,RCT,MS patients,sleep hygiene education,sleep hygiene behaviour,control group
+24710994,2016,RCT,women,sleep hygiene education,sleep hygiene behaviour,control group
+25099523,2016,RCT,MS patients,placebo,sleep quality (PSQI),placebo
+25099523,2016,RCT,women,placebo,sleep quality (PSQI),placebo
+25099523,2016,RCT,MS patients,placebo,sleep onset latency,placebo
+25099523,2016,RCT,women,placebo,sleep onset latency,placebo
+25099523,2016,RCT,MS patients,placebo,quality of life,placebo
+25099523,2016,RCT,women,placebo,quality of life,placebo
+25099523,2016,RCT,MS patients,placebo,insomnia severity (ISI),placebo
+25099523,2016,RCT,women,placebo,insomnia severity (ISI),placebo
+24742146,2016,RCT,young adults,exercise,safety,control group
+24742146,2016,RCT,MS patients,exercise,safety,control group
+24742146,2016,RCT,young adults,exercise,mental health,control group
+24742146,2016,RCT,MS patients,exercise,mental health,control group
+24742146,2016,RCT,young adults,exercise,quality of life,control group
+24742146,2016,RCT,MS patients,exercise,quality of life,control group
+25409110,2016,RCT,insomnia patients,light therapy,dim light melatonin onset,not specified
+25409110,2016,RCT,insomnia patients,melatonin,dim light melatonin onset,not specified
+24602411,2016,RCT,Parkinson patients,placebo,pain,placebo
+24308310,2016,RCT,young adults,exercise,safety,control group
+24308310,2016,RCT,MS patients,exercise,safety,control group
+24308310,2016,RCT,young adults,exercise,mental health,control group
+24308310,2016,RCT,MS patients,exercise,mental health,control group
+24308310,2016,RCT,young adults,exercise,adverse events,control group
+24308310,2016,RCT,MS patients,exercise,adverse events,control group
+24308310,2016,RCT,young adults,exercise,quality of life,control group
+24308310,2016,RCT,MS patients,exercise,quality of life,control group
+24822235,2016,RCT,MS patients,patient education,sleep quality (PSQI),patient education
+24822235,2016,RCT,MS patients,patient education,pain,patient education
+24822235,2016,RCT,MS patients,placebo,sleep quality (PSQI),patient education
+24822235,2016,RCT,MS patients,placebo,pain,patient education
+25005652,2016,RCT,MS patients,placebo,depression,placebo
+25005652,2016,RCT,MS patients,placebo,safety,placebo
+25005652,2016,RCT,MS patients,placebo,adverse events,placebo
+24790277,2016,RCT,insomnia patients,placebo,polysomnography,placebo
+24790277,2016,RCT,insomnia patients,placebo,sleep onset latency,placebo
+24426817,2016,RCT,insomnia patients,placebo,sleep onset latency,placebo
+25658017,2016,RCT,MS patients,sleep restriction therapy,sleep onset latency,not specified
+25478944,2016,RCT,MS patients,placebo,sleep onset latency,placebo
+26047808,2016,RCT,children/adolescents,psychoeducation,depression,not specified
+26047808,2016,RCT,ADHD population,psychoeducation,depression,not specified
+26047808,2016,RCT,MS patients,psychoeducation,depression,not specified
+26047808,2016,RCT,children/adolescents,psychoeducation,mental health,not specified
+26047808,2016,RCT,ADHD population,psychoeducation,mental health,not specified
+26047808,2016,RCT,MS patients,psychoeducation,mental health,not specified
+26047808,2016,RCT,children/adolescents,psychoeducation,anxiety,not specified
+26047808,2016,RCT,ADHD population,psychoeducation,anxiety,not specified
+26047808,2016,RCT,MS patients,psychoeducation,anxiety,not specified
+25443996,2016,RCT,MS patients,exercise,sleep quality (PSQI),not specified
+25443996,2016,RCT,MS patients,exercise,depression,not specified
+25652579,2016,RCT,MS patients,CBT-I,depression,not specified
+25652579,2016,RCT,insomnia patients,CBT-I,depression,not specified
+25652579,2016,RCT,women,CBT-I,depression,not specified
+25652579,2016,RCT,MS patients,CBT-I,sleep onset latency,not specified
+25652579,2016,RCT,insomnia patients,CBT-I,sleep onset latency,not specified
+25652579,2016,RCT,women,CBT-I,sleep onset latency,not specified
+25652579,2016,RCT,MS patients,digital CBT-I,depression,not specified
+25652579,2016,RCT,insomnia patients,digital CBT-I,depression,not specified
+25652579,2016,RCT,women,digital CBT-I,depression,not specified
+25652579,2016,RCT,MS patients,digital CBT-I,sleep onset latency,not specified
+25652579,2016,RCT,insomnia patients,digital CBT-I,sleep onset latency,not specified
+25652579,2016,RCT,women,digital CBT-I,sleep onset latency,not specified
+24286114,2016,RCT,MS patients,placebo,safety,placebo
+24286114,2016,RCT,women,placebo,safety,placebo
+24286114,2016,RCT,MS patients,placebo,anxiety,placebo
+24286114,2016,RCT,women,placebo,anxiety,placebo
+24286114,2016,RCT,MS patients,placebo,adverse events,placebo
+24286114,2016,RCT,women,placebo,adverse events,placebo
+24286114,2016,RCT,MS patients,placebo,pain,placebo
+24286114,2016,RCT,women,placebo,pain,placebo
+24587570,2016,RCT,insomnia patients,placebo,daytime functioning,placebo
+25387805,2016,RCT,MS patients,sleep hygiene education,sleep hygiene behaviour,not specified
+25387805,2016,RCT,MS patients,sleep hygiene education,fatigue,not specified
+25325498,2016,RCT,insomnia patients,placebo,cognitive function,placebo
+24957753,2016,RCT,children/adolescents,sleep hygiene education,sleep hygiene behaviour,control group
+24957753,2016,RCT,ADHD population,sleep hygiene education,sleep hygiene behaviour,control group
+24957753,2016,RCT,children/adolescents,sleep hygiene education,insomnia severity (ISI),control group
+24957753,2016,RCT,ADHD population,sleep hygiene education,insomnia severity (ISI),control group
+24970708,2016,RCT,adults with insomnia,CBT-I,depression,not specified
+24970708,2016,RCT,adults with insomnia,CBT-I,anxiety,not specified
+24970708,2016,RCT,adults with insomnia,CBT-I,insomnia severity (ISI),not specified
+25325609,2016,RCT,adults with insomnia,placebo,adverse events,placebo
+25325609,2016,RCT,adults with insomnia,placebo,insomnia severity (ISI),placebo
+24867298,2016,RCT,insomnia patients,placebo,safety,placebo
+24867298,2016,RCT,insomnia patients,placebo,adverse events,placebo
+24867298,2016,RCT,insomnia patients,placebo,fatigue,placebo
+24867298,2016,RCT,insomnia patients,placebo,pain,placebo
+25347696,2016,RCT,children/adolescents,placebo,insomnia severity (ISI),placebo
+25092036,2016,RCT,MS patients,melatonin,pain,placebo
+25092036,2016,RCT,MS patients,placebo,pain,placebo
+25234526,2016,RCT,insomnia patients,placebo,pain,placebo
+24889392,2016,RCT,MS patients,placebo,sleep quality (PSQI),placebo
+24889392,2016,RCT,MS patients,placebo,sleep onset latency,placebo
+24889392,2016,RCT,MS patients,placebo,fatigue,placebo
+24946226,2016,RCT,children/adolescents,placebo,sleep onset latency,placebo
+24946226,2016,RCT,MS patients,placebo,sleep onset latency,placebo
+24946226,2016,RCT,children/adolescents,placebo,adverse events,placebo
+24946226,2016,RCT,MS patients,placebo,adverse events,placebo
+24946226,2016,RCT,children/adolescents,placebo,pain,placebo
+24946226,2016,RCT,MS patients,placebo,pain,placebo
+24577847,2016,RCT,older adults,CBT-I,anxiety,not specified
+24577847,2016,RCT,adults with insomnia,CBT-I,anxiety,not specified
+24577847,2016,RCT,older adults,CBT-I,mental health,not specified
+24577847,2016,RCT,adults with insomnia,CBT-I,mental health,not specified
+24577847,2016,RCT,older adults,CBT-I,quality of life,not specified
+24577847,2016,RCT,adults with insomnia,CBT-I,quality of life,not specified
+24577847,2016,RCT,older adults,CBT-I,depression,not specified
+24577847,2016,RCT,adults with insomnia,CBT-I,depression,not specified
+24577847,2016,RCT,older adults,CBT-I,insomnia severity (ISI),not specified
+24577847,2016,RCT,adults with insomnia,CBT-I,insomnia severity (ISI),not specified
+24446953,2016,RCT,adults with insomnia,placebo,safety,placebo
+24446953,2016,RCT,epilepsy patients,placebo,safety,placebo
+24446953,2016,RCT,adults with insomnia,placebo,adverse events,placebo
+24446953,2016,RCT,epilepsy patients,placebo,adverse events,placebo
+24446953,2016,RCT,adults with insomnia,placebo,fatigue,placebo
+24446953,2016,RCT,epilepsy patients,placebo,fatigue,placebo
+24253484,2016,RCT,menopausal women,placebo,sleep quality (PSQI),placebo
+24253484,2016,RCT,women,placebo,sleep quality (PSQI),placebo
+25056567,2016,RCT,children/adolescents,placebo,actigraphy,placebo
+25056567,2016,RCT,ADHD population,placebo,actigraphy,placebo
+24643203,2016,RCT,Parkinson patients,placebo,sleep onset latency,placebo
+24643203,2016,RCT,Parkinson patients,placebo,adverse events,placebo
+25644221,2016,RCT,insomnia patients,placebo,sleep quality (PSQI),placebo
+25137243,2016,RCT,menopausal women,placebo,safety,placebo
+25137243,2016,RCT,MS patients,placebo,safety,placebo
+25137243,2016,RCT,women,placebo,safety,placebo
+25137243,2016,RCT,menopausal women,placebo,adverse events,placebo
+25137243,2016,RCT,MS patients,placebo,adverse events,placebo
+25137243,2016,RCT,women,placebo,adverse events,placebo
+24748778,2016,RCT,older adults,light therapy,sleep onset latency,not specified
+24748778,2016,RCT,MS patients,light therapy,sleep onset latency,not specified
+24891007,2016,RCT,MS patients,melatonin,polysomnography,placebo
+24891007,2016,RCT,MS patients,melatonin,quality of life,placebo
+24891007,2016,RCT,MS patients,placebo,polysomnography,placebo
+24891007,2016,RCT,MS patients,placebo,quality of life,placebo

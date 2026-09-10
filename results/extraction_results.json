@@ -1,0 +1,4906 @@
+[
+  {
+    "pmid": "24497661",
+    "title": "Examine whether cognitive behavioral therapy for insomnia ( CBT-I ) improves sleep in posttraumatic stress disorder ( PTSD ) as well as nightmares , nonsleep PTSD symptoms , depression symptoms , and psychosocial functioning .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "total sleep time",
+      "sleep quality (PSQI)",
+      "actigraphy",
+      "depression",
+      "polysomnography",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "waitlist"
+    ]
+  },
+  {
+    "pmid": "24395850",
+    "title": "Our study examined whether mindfulness-based stress reduction ( MBSR ) is noninferior to cognitive behavioral therapy for insomnia ( CBT-I ) for the treatment of insomnia in patients with cancer .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "sleep onset latency",
+      "total sleep time",
+      "sleep efficiency",
+      "sleep quality (PSQI)",
+      "actigraphy",
+      "wake after sleep onset",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24899759",
+    "title": "To evaluate the impact of nocturia on the therapeutic response of chronic insomnia to behavioral treatment in older adults .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "total sleep time",
+      "sleep quality (PSQI)",
+      "actigraphy",
+      "polysomnography",
+      "wake after sleep onset"
+    ],
+    "populations": [
+      "older adults",
+      "adults with insomnia",
+      "chronic insomnia"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24650832",
+    "title": "To examine the effect of cognitive-behavioral therapy for insomnia ( CBTI ) on sleep improvement , daytime symptoms , and quality of life ( QOL ) in breast cancer survivors ( BCSs ) after cancer treatment .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education",
+      "CBT-I",
+      "placebo"
+    ],
+    "outcomes": [
+      "anxiety",
+      "fatigue",
+      "total sleep time",
+      "sleep efficiency",
+      "sleep hygiene behaviour",
+      "quality of life",
+      "depression",
+      "wake after sleep onset",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients",
+      "chronic insomnia",
+      "cancer survivors",
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24470701",
+    "title": "To evaluate the efficacy of a brief 4-w group-administered treatment program of cognitive behavior therapy for insomnia ( CBT-I ) for older adults with sleep maintenance insomnia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I",
+      "cognitive therapy"
+    ],
+    "outcomes": [
+      "anxiety",
+      "fatigue",
+      "sleep efficiency",
+      "actigraphy",
+      "daytime functioning",
+      "wake after sleep onset",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "older adults",
+      "adults with insomnia"
+    ],
+    "comparators": [
+      "waitlist"
+    ]
+  },
+  {
+    "pmid": "25686304",
+    "title": "Sleep disturbances are most prevalent among older adults and often go untreated .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education",
+      "meditation/mindfulness"
+    ],
+    "outcomes": [
+      "anxiety",
+      "fatigue",
+      "quality of life",
+      "sleep quality (PSQI)",
+      "depression",
+      "sleep hygiene behaviour"
+    ],
+    "populations": [
+      "older adults",
+      "adults with insomnia",
+      "insomnia patients",
+      "MS patients"
+    ],
+    "comparators": [
+      "sleep hygiene only"
+    ]
+  },
+  {
+    "pmid": "24413724",
+    "title": "The high prevalence of sleep disorders highlights the importance of its treatment in hemodialysis patients .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education",
+      "pharmacotherapy"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "sleep hygiene behaviour"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "control group",
+      "sleep hygiene only"
+    ]
+  },
+  {
+    "pmid": "24875654",
+    "title": "Cognitive behavioral therapy for insomnia ( CBT-I ) is well-validated in the western countries .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "polysomnography",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24911577",
+    "title": "A 5-h phase advance model of insomnia was used to evaluate the efficacy of lorediplon , a new non-benzodiazepine hypnotic .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "benzodiazepines",
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "wake after sleep onset",
+      "total sleep time"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24340290",
+    "title": "The extant literature on predictors of treatment response to behavioral treatments for insomnia is equivocal and limited in scope .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep restriction therapy"
+    ],
+    "outcomes": [
+      "sleep onset latency",
+      "anxiety",
+      "sleep efficiency",
+      "sleep quality (PSQI)",
+      "depression",
+      "polysomnography"
+    ],
+    "populations": [
+      "older adults",
+      "adults with insomnia",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24971004",
+    "title": "A link between poor sleep quality and Alzheimer 's disease ( AD ) has recently been suggested .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "prolonged-release melatonin",
+      "melatonin",
+      "placebo"
+    ],
+    "outcomes": [
+      "safety",
+      "adverse events",
+      "sleep efficiency",
+      "sleep quality (PSQI)",
+      "cognitive function"
+    ],
+    "populations": [
+      "comorbid insomnia",
+      "women",
+      "dementia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24433249",
+    "title": "Patients with bipolar disorder experience sleep disturbance , even in euthymic phases .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "psychoeducation",
+      "CBT-I",
+      "pharmacotherapy",
+      "sleep restriction therapy"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "actigraphy",
+      "depression"
+    ],
+    "populations": [
+      "comorbid insomnia"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25623343",
+    "title": "Insomnia is prevalent among patients with knee osteoarthritis ( OA ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I",
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "wake after sleep onset",
+      "pain"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25317091",
+    "title": "To evaluate multiple doses of gabapentin 250 mg on polysomnography ( PSG ) and participant-reported sleep assessments in a 5-h phase advance insomnia model .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "total sleep time",
+      "adverse events",
+      "sleep quality (PSQI)",
+      "polysomnography",
+      "wake after sleep onset"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24747978",
+    "title": "The aim of this hypothesis-generating pilot study was to assess prospectively the objective and subjective effects of treatment with quetiapine XR on sleep during early recovery from alcohol dependence ( AD ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep onset latency",
+      "anxiety",
+      "sleep onset time",
+      "sleep efficiency",
+      "sleep quality (PSQI)",
+      "polysomnography",
+      "wake after sleep onset",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "26200520",
+    "title": "To examine whether sleep disturbance is associated with poor physical function in older veterans in an adult day healthcare ( ADHC ) program .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "total sleep time",
+      "pain",
+      "sleep quality (PSQI)",
+      "actigraphy",
+      "depression",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24581825",
+    "title": "Bipolar depression is one of the most serious psychiatric conditions .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep efficiency",
+      "sleep quality (PSQI)",
+      "actigraphy",
+      "depression",
+      "wake after sleep onset",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24899755",
+    "title": "To compare pregabalin versus placebo and pramipexole for reducing restless legs syndrome ( RLS ) - related sleep disturbance .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "wake after sleep onset",
+      "total sleep time",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "26115386",
+    "title": "To evaluate the effect of structured physical activity on sleep-wake behaviors in sedentary community-dwelling elderly adults with mobility limitations .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "sleep onset latency",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "older adults",
+      "adults with insomnia",
+      "MS patients",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24831251",
+    "title": "To examine the speed and trajectory of changes in sleep/wake parameters during short-term treatment of insomnia with cognitive-behavioral therapy ( CBT ) alone versus CBT combined with medication ; and to explore the relationship between early treatment response and post-treatment recovery status .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep onset latency",
+      "total sleep time",
+      "sleep efficiency",
+      "sleep quality (PSQI)",
+      "wake after sleep onset"
+    ],
+    "populations": [
+      "MS patients",
+      "adults with insomnia",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25515276",
+    "title": "Positional therapy ( PT ) is an effective therapy in positional obstructive sleep apnea syndrome ( POSAS ) when used , but the compliance of PT is low .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "wake after sleep onset",
+      "polysomnography",
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24293756",
+    "title": "Investigate the hypnotic effects of repeated doses of neurokinin-1 receptor antagonist , vestipitant , in primary insomnia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "wake after sleep onset",
+      "total sleep time",
+      "adverse events"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25452447",
+    "title": "Insomnia is a distressing and often persisting consequence of cancer .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education",
+      "CBT-I",
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "sleep hygiene behaviour",
+      "daytime functioning",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "cancer survivors",
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25325608",
+    "title": "To determine if weight loss and / or changes in apnea-hypopnea index ( AHI ) improve sleep architecture in overweight / obese adults with type 2 diabetes ( T2D ) and obstructive sleep apnea ( OSA ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "wake after sleep onset",
+      "total sleep time"
+    ],
+    "populations": [
+      "adults with insomnia"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24604461",
+    "title": "To explore the effect of cognitive behavioral therapy ( CBT ) in combination with systemic family therapy ( SFT ) on mild to moderate postpartum depression and sleep quality .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "depression",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "women"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25142571",
+    "title": "To investigate the comparative efficacy of cognitive behavioral therapy ( CBT ) , Tai Chi Chih ( TCC ) , and sleep seminar education control ( SS ) on the primary outcome of insomnia diagnosis , and secondary outcomes of sleep quality , fatigue , depressive symptoms , and inflammation in older adults with insomnia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "polysomnography",
+      "fatigue"
+    ],
+    "populations": [
+      "older adults",
+      "adults with insomnia",
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24673043",
+    "title": "To compare the efficacy of different points combination in the treatment of menopausal insomnia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "polysomnography",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "menopausal women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25647773",
+    "title": "Sleep deprivation may be particularly detrimental to intensive care unit ( ICU ) patients .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "melatonin"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "total sleep time"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25083010",
+    "title": "To assess the short-term efficacy of a video-based cognitive behavioral therapy for insomnia ( CBT-I ) as compared to a professionally administered CBT-I and to a no-treatment group .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "actigraphy",
+      "depression",
+      "fatigue",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients",
+      "insomnia patients",
+      "cancer survivors",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25135124",
+    "title": "Sleep deprivation is common in critically ill patients in intensive care units ( ICU ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "melatonin",
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "polysomnography",
+      "anxiety"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24559487",
+    "title": "Poor sleep is prevalent in patients with systemic inflammatory disorders , including rheumatoid arthritis , and , in addition to fatigue , pain , depression and inflammation , is associated with an increased risk of co-morbidity and all-cause mortality .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "exercise",
+      "pharmacotherapy"
+    ],
+    "outcomes": [
+      "fatigue",
+      "quality of life",
+      "sleep quality (PSQI)",
+      "pain",
+      "depression",
+      "polysomnography",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25317090",
+    "title": "To evaluate the effects of single doses of gabapentin 250 and 500 mg on polysomnographic ( PSG ) and participant-reported sleep measures in a 5-h phase advance insomnia model .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "total sleep time",
+      "adverse events",
+      "sleep quality (PSQI)",
+      "polysomnography",
+      "wake after sleep onset"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25030264",
+    "title": "Disturbance in sleep quality is a symptom of Major Depressive Disorder ( MDD ) and Bipolar Disorder ( BD ) and thus improving quality of sleep is an important aspect of successful treatment .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "total sleep time",
+      "sleep efficiency",
+      "sleep quality (PSQI)",
+      "depression",
+      "polysomnography"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25077452",
+    "title": "Although fatigue , sleep disturbance , depression , and anxiety are associated with pain in breast cancer patients , it is unknown whether acupuncture can decrease these comorbid symptoms in cancer patients with pain .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "anxiety",
+      "fatigue",
+      "pain",
+      "sleep quality (PSQI)",
+      "depression"
+    ],
+    "populations": [
+      "menopausal women",
+      "cancer survivors",
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "waitlist"
+    ]
+  },
+  {
+    "pmid": "25171195",
+    "title": "Apnea of prematurity is a common condition that is usually treated with caffeine , an adenosine receptor blocker that has powerful influences on the central nervous system .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "actigraphy",
+      "total sleep time",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "children/adolescents"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24916951",
+    "title": "To improve mechanistic understanding , this pilot randomized controlled trial examined mediators of an exercise intervention effects on sleep in breast cancer survivors ( BCS ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "exercise"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "fatigue"
+    ],
+    "populations": [
+      "menopausal women",
+      "cancer survivors"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24522288",
+    "title": "Poor sleep hygiene including sleeping in the daytime or with the lights on at night is discovered during the assessment of many sleep disorders including sleep apnea .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education"
+    ],
+    "outcomes": [
+      "actigraphy",
+      "sleep hygiene behaviour"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24280464",
+    "title": "This study was performed to evaluate the effectiveness of Benson 's relaxation technique in the quality of sleep of hemodialysis patients .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "relaxation therapy"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25515106",
+    "title": "Despite considerable evidence supporting cognitive behavioral therapy for insomnia ( CBT-I ) for chronic insomnia , it remains untested within the context of acute insomnia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients",
+      "chronic insomnia",
+      "insomnia patients"
+    ],
+    "comparators": [
+      "waitlist",
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25342100",
+    "title": "Hypnotic drugs tend to be the dominant form of treatment of insomnia , but these come with a number of reported side effects .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "anxiety",
+      "quality of life",
+      "sleep quality (PSQI)",
+      "depression",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients",
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25547247",
+    "title": "Light information is the most important cue of circadian rhythm which synchronizes biological rhythm with external environment .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "melatonin"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "actigraphy",
+      "chronotype",
+      "depression"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24470706",
+    "title": "Obstructive sleep apnea ( OSA ) , common in Parkinson disease ( PD ) , contributes to sleep disturbances and daytime sleepiness .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "daytime functioning",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "Parkinson patients",
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25325454",
+    "title": "Determine effects of low-dose estradiol and low-dose venlafaxine on self-reported sleep measures in menopausal women with hot flashes .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "menopausal women",
+      "insomnia patients",
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24559816",
+    "title": "To examine the effects of music listening on sleep quality amongst older community-dwelling adults in Singapore .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "depression"
+    ],
+    "populations": [
+      "older adults"
+    ],
+    "comparators": [
+      "control group",
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24252173",
+    "title": "Sleep problems are common and persistent during adolescence and can have negative effects on adolescents ' mood .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "actigraphy",
+      "daytime functioning",
+      "sleep hygiene behaviour"
+    ],
+    "populations": [
+      "MS patients",
+      "women",
+      "insomnia patients",
+      "adolescents"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25218696",
+    "title": "Edentulism and sleep disturbance are chronic conditions that are common in older people and have serious adverse consequences for their functioning and quality of life .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "polysomnography",
+      "daytime functioning",
+      "quality of life"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24680372",
+    "title": "Suvorexant ( MK-4305 ) is an orexin receptor antagonist shown to be efficacious for insomnia over 3 months .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "suvorexant",
+      "placebo"
+    ],
+    "outcomes": [
+      "safety",
+      "total sleep time",
+      "adverse events"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24627301",
+    "title": "Dual orexin receptor antagonists ( DORAs ) enable initiation and maintenance of sleep in patients with primary insomnia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "benzodiazepines",
+      "placebo"
+    ],
+    "outcomes": [
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24791643",
+    "title": "Insomnia patients complain that mental events keep them awake .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I",
+      "placebo"
+    ],
+    "outcomes": [
+      "depression",
+      "anxiety",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "MS patients",
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24634631",
+    "title": "Previous studies have demonstrated pronounced reduction of REM sleep on the first nights following major surgery which may influence pain , analgesic use , and recovery .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "polysomnography",
+      "fatigue",
+      "pain"
+    ],
+    "populations": [
+      "older adults"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25260230",
+    "title": "Sleep disturbances are common following traumatic brain injury ( TBI ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24318654",
+    "title": "Sleep disruption and fatigue are ubiquitous among cancer patients and are sources of stress that may compromise treatment outcomes .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "psychoeducation"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "anxiety",
+      "fatigue"
+    ],
+    "populations": [
+      "cancer survivors",
+      "women"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25454802",
+    "title": "Insomnia is frequent in schizophrenia and may contribute to cognitive impairment as well as overuse of weight inducing sedative antipsychotics .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "quality of life",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24497658",
+    "title": "Evaluate long-term effects of group interventions on sleep and pain outcomes in a primary care population of older adults with osteoarthritis pain and sleep disturbance .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "pain",
+      "sleep efficiency",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "older adults",
+      "adults with insomnia",
+      "insomnia patients",
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24978952",
+    "title": "Community pharmacies may potentially assist in screening for chronic conditions such as sleep disorders , which remain both under-diagnosed and untreated .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25064627",
+    "title": "Obstructive Sleep Apnea ( OSA ) is a common medical problem in adults that is becoming increasingly recognized in children .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "quality of life"
+    ],
+    "populations": [
+      "children/adolescents",
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "26480547",
+    "title": "To compare the efficacy difference in the treatment of senile insomnia among western , medication , acupuncture and the integrated therapy of acupuncture and western medication .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "26030264",
+    "title": "Oral appliances that move the mandible forward during sleep are suggested as treatment for mild to moderate obstructive sleep apnea .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "daytime functioning",
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24495406",
+    "title": "There are no randomized clinical trials regarding efficacy of trazodone in the treatment of sleep disturbances ( SD ) in patients with Alzheimer disease ( AD ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "actigraphy",
+      "safety",
+      "daytime functioning",
+      "adverse events"
+    ],
+    "populations": [
+      "dementia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24518285",
+    "title": "To investigate the efficacy of fesoterodine vs placebo on nocturia , sleep disturbance , and sleep-related quality of life ( QoL ) in patients with overactive bladder and nocturia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "quality of life"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25335250",
+    "title": "To compare the efficacy difference among acupuncture smoothing-liver and regulating-spleen method , regulating Governor Vessel method and oral administration of western medicine for menopausal insomnia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "menopausal women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24717254",
+    "title": "Armodafinil is a medication used to treat excessive sleepiness in individuals with shift work disorder ( SWD ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "cognitive function"
+    ],
+    "populations": [
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24398115",
+    "title": "Bruxism is a parafunctional habit characterized by grinding and/or clenching of the teeth .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "exercise"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "anxiety",
+      "depression",
+      "pain"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24687640",
+    "title": "The purpose of this study was to determine whether sleep changes are a consequence of nicotine presence or withdrawal during the night , we examined 66 healthy non-smokers ( 33 males , 33 females , age : 20-25 years ) after an adaptation night in a sleep laboratory setting .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24882900",
+    "title": "Insomnia , which is very common in patients with chronic low back pain ( LBP ) , has long been viewed as a pain symptom that did not merit specific treatment .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "depression",
+      "total sleep time",
+      "pain"
+    ],
+    "populations": [
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25364070",
+    "title": "Determine the effects of high versus moderate workload on sleep physiology and neurobehavioral measures , during sleep restriction ( SR ) and no sleep restriction ( NSR ) conditions .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep restriction therapy"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "wake after sleep onset",
+      "fatigue"
+    ],
+    "populations": [
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24988965",
+    "title": "To study the effect of melatonin ( melaxen ) on sleep disorders in patients with mild cranial-brain injury ( CBI ) in the early rehabilitation period .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "melatonin"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "depression",
+      "quality of life"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "26480548",
+    "title": "To compare the difference in the efficacy between acupuncture and oral administration of trazodone and the expressions of neurotransmitters in patients of insomnia differentiated as liver stagnation transforming into fire .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25323219",
+    "title": "A review on headache and insomnia revealed that insomnia is a risk factor for increased headache frequency and headache intensity in migraineurs .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "total sleep time",
+      "fatigue"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24315572",
+    "title": "Former sleep studies among non-treatment seeking chronic cocaine users had captured polysomnographic changes for as long as three weeks of abstinence .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I",
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "total sleep time",
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25115507",
+    "title": "In athletes , caffeine use is common although its effects on sleep have not been widely studied .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "total sleep time",
+      "sleep onset latency",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24918372",
+    "title": "Obstructive sleep apnea is associated with hypertension , inflammation , and increased cardiovascular risk .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education"
+    ],
+    "outcomes": [
+      "sleep hygiene behaviour"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25668196",
+    "title": "Neuroendocrine and immune stresses imposed by chronic sleep restriction are known to be involved in the harmful cardiovascular effects associated with poor sleep .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep restriction therapy"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "mental health"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24293773",
+    "title": "Newcomers at high altitude ( > 3,000 m ) experience periodic breathing , sleep disturbances , and impaired cognitive performance .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "adverse events",
+      "cognitive function"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24524214",
+    "title": "Cognitive Behaviour Therapy for Insomnia ( CBT-I ) delivered through the Internet is effective as a treatment in reducing insomnia in individuals seeking help for insomnia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I",
+      "digital CBT-I"
+    ],
+    "outcomes": [
+      "depression",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25070302",
+    "title": "Adenotonsillectomy for obstructive sleep apnea syndrome ( OSAS ) may lead to weight gain , which can have deleterious health effects when leading to obesity .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "children/adolescents",
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24461370",
+    "title": "The purpose of our study was to evaluate and compare two methods of service delivery ( web-based and telehealth-based ) for chronic insomnia with regard to patient preference , clinical effectiveness , and patient satisfaction .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "stimulus control",
+      "sleep hygiene education",
+      "relaxation therapy",
+      "psychoeducation",
+      "cognitive therapy",
+      "meditation/mindfulness",
+      "sleep restriction therapy"
+    ],
+    "outcomes": [
+      "sleep hygiene behaviour",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "adults with insomnia",
+      "chronic insomnia"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24947878",
+    "title": "Exercise training may improve components of metabolic syndrome and obstructive sleep apnea syndrome ( OSAS ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "exercise"
+    ],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25142566",
+    "title": "To evaluate the efficacy of mindfulness meditation for the treatment of chronic insomnia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "meditation/mindfulness"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "actigraphy",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "adults with insomnia",
+      "chronic insomnia"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "26427106",
+    "title": "To evaluate the clinical efficacy of Zhenjingdingzhi decoction in treating insomnia with Qi-deficiency of heart and gallbladder .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "pharmacotherapy"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25325491",
+    "title": "Measures of health-related quality of life ( HRQL ) specific for sleep disorders have had limited psychometric evaluation in the context of randomized controlled trials ( RCTs ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "quality of life",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24458543",
+    "title": "This secondary analysis of data from a randomised controlled trial explores associations between common symptom clusters and evaluates pre-treatment to post-treatment changes in clinical levels of these symptoms following cognitive behaviour therapy for insomnia ( CBT-I ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "depression",
+      "anxiety",
+      "fatigue"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25024657",
+    "title": "To determine the feasibility and pilot a sleep education program in New Zealand high school students .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education"
+    ],
+    "outcomes": [
+      "sleep hygiene behaviour"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25129884",
+    "title": "Sleep disorders are common among patients hospitalized in coronary care unit ( CCU ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24398053",
+    "title": "The prevalence of sleep disorders increases with age .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "benzodiazepines",
+      "placebo"
+    ],
+    "outcomes": [
+      "actigraphy",
+      "pain",
+      "adverse events",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25083017",
+    "title": "Obstructive sleep apnea ( OSA ) diagnosis using simplified methods such as portable sleep monitoring ( PM ) is only recommended in patients with a high pretest probability .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25126031",
+    "title": "To compare the efficacy and patient comfort of a new mode of minute ventilation-targeted adaptive servoventilation ( ASVAuto ) with auto-titrating expiratory positive airway pressure ( EPAP ) versus bilevel with back-up respiratory rate ( bilevel-ST ) in patients with central sleep apnea ( CSA ) associated with chronic use of opioid medications .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25066140",
+    "title": "The aim of our study was to determine whether the combination of intratympanic ( IT ) corticosteroid with melatonin could be associated with decreased tinnitus in patients with unilateral acute idiopathic tinnitus developed within 3months .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "melatonin"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "depression",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24637789",
+    "title": "The ACS1 ( Azilsartan Circadian and Sleep Pressure - the first study ) is a multicenter , randomized , open-label , two parallel-group study carried out to investigate the efficacy of an 8-week oral treatment with azilsartan 20 mg in comparison with amlodipine 5 mg .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24932147",
+    "title": "Alternative therapies for childhood obstructive sleep apnea syndrome ( OSAS ) are needed as OSAS may persist despite adenotonsillectomy , and continuous positive airway pressure ( CPAP ) adherence is low .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "quality of life"
+    ],
+    "populations": [
+      "children/adolescents",
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25636288",
+    "title": "To evaluate the efficacy of 2 mandibular advancement devices in 6-week treatment of patient with severe obstructive sleep apnea hypopnea syndrome ( OSAHS ) who refused to CPAP or CPAP therapy .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "mental health",
+      "anxiety"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24811331",
+    "title": "Sleep-disordered breathing may impair cerebral oxygenation in patients with OSA syndrome , in particular during altitude travel .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24512477",
+    "title": "Chronic insomnia is a major public health problem affecting approximately 10 % of adults .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education",
+      "meditation/mindfulness"
+    ],
+    "outcomes": [
+      "actigraphy",
+      "sleep hygiene behaviour"
+    ],
+    "populations": [
+      "chronic insomnia"
+    ],
+    "comparators": [
+      "sleep hygiene only"
+    ]
+  },
+  {
+    "pmid": "25311708",
+    "title": "To determine whether premature infants ' sleep organization , total sleep time , and arousals may be modulated while on a conformational positioner that provides boundaries , customized positioning , and containment compared with standard positioning ( standard crib mattress ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "total sleep time",
+      "sleep efficiency",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25793429",
+    "title": "Depression is common in patients with chronic kidney disease who are on hemodialysis .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "mental health",
+      "depression",
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25171686",
+    "title": "Noninvasive positive-pressure ventilation ( NPPV ) using intelligent volume-assured pressure support ( iVAPS ) combines volume - and pressure-preset NPPV and therefore uses a variation of inspiratory positive airway pressures .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "polysomnography",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24424704",
+    "title": "Evaluate potential gender effects on efficacy and safety of a buffered zolpidem sublingual tablet ( ZST ) formulation .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "sleep onset latency",
+      "adverse events",
+      "safety"
+    ],
+    "populations": [
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25172115",
+    "title": "Urology clinical trials assessing bladder function have relied on the self-reported duration of the first uninterrupted sleep period ( FUSP ) as a proxy outcome for sleep , but the relationship between this measure and more conventional self-reported measures of sleep is unknown .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "daytime functioning"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25335247",
+    "title": "To compare the difference in the clinical efficacy on post-stroke insomnia between the low-frequency electric stimulation at the acupoints and the conventional western medication .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25022743",
+    "title": "To assess the effectiveness of a weighted-blanket intervention in treating severe sleep problems in children with autism spectrum disorder ( ASD ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "actigraphy",
+      "total sleep time",
+      "adverse events",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "children/adolescents",
+      "MS patients",
+      "ASD population"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25197807",
+    "title": "Suvorexant , an orexin receptor antagonist , improves sleep in healthy subjects ( HS ) and patients with insomnia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "suvorexant",
+      "placebo"
+    ],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24517155",
+    "title": "Conventional glucocorticoid replacement therapy fails to mimic the physiological cortisol rhythm , which may have implications for morbidity and mortality in patients with Addison 's disease .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep onset latency",
+      "safety",
+      "quality of life",
+      "sleep quality (PSQI)",
+      "actigraphy"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24326088",
+    "title": "The purpose of this study was to evaluate the effectiveness of mandibular advancement devices ( MADs ) for treatment of obstructive sleep apnea syndrome ( OSAS ) compared with the results obtained with a placebo device in accordance with the following indicators : apnea hypopnea index ( AHI ) per hour of sleep , apnea index ( AI ) per hour of sleep , mean oxyhemoglobin saturation , sleep efficiency , and percentage of rapid eye movement ( REM ) sleep .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25376160",
+    "title": "To investigate the efficacy , safety , and clinical benefit of prolonged-release trazodone ( Trittico ) in the treatment of major depressive disorder ( MDD ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "safety",
+      "depression"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24710341",
+    "title": "1 ) To investigate the impact of acetazolamide , a drug commonly prescribed for altitude sickness , on cortical oscillations in patients with obstructive sleep apnea syndrome ( OSAS ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "benzodiazepines",
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25121620",
+    "title": "The aim of this study was to evaluate the effects of an mHealth intervention ( intervention using mobile technology ) consisting of tailored advice regarding exposure to daylight , sleep , physical activity , and nutrition , and aiming to improve health-related behavior , thereby reducing sleep problems and fatigue and improving health perception of airline pilots .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "fatigue"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "26132682",
+    "title": "To evaluate the efficacy and safety of acupuncture for residual insomnia and other residual symptoms associated with major depressive disorder ( MDD ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "anxiety",
+      "safety",
+      "adverse events",
+      "sleep efficiency",
+      "actigraphy",
+      "daytime functioning"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24470003",
+    "title": "This randomized controlled trial examined the quality-of-life benefits of an expressive writing ( EW ) intervention for patients with renal cell carcinoma ( RCC ) and identified a potential underlying mechanism of intervention efficacy .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "depression",
+      "fatigue"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25343191",
+    "title": "Abdominal adiposity may be an important risk factor for uncontrolled asthma in adults , controlling for general obesity .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "MS patients",
+      "adults with insomnia",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24532997",
+    "title": "To assess the effect of armodafinil on task-related prefrontal cortex activation using functional magnetic resonance imaging ( fMRI ) in patients with obstructive sleep apnea ( OSA ) and excessive sleepiness despite continuous positive airway pressure ( CPAP ) therapy .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep onset latency",
+      "adverse events"
+    ],
+    "populations": [
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25197812",
+    "title": "Obstructive sleep apnea ( OSA ) is commoner in patients with fluid-retaining states than in those without fluid retention , in men than in women , and worsens with aging .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "adverse events"
+    ],
+    "populations": [
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24886638",
+    "title": "Osteoarthritis ( OA ) is a common problem in older women that is associated with pain and disabilities .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "exercise"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "pain",
+      "adverse events",
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "waitlist"
+    ]
+  },
+  {
+    "pmid": "24812543",
+    "title": "This study investigated the effects of fatty fish on sleep , daily functioning and biomarkers such as heart rate variability ( HRV ) , vitamin D status ( serum 25-hydroxyvitamin D ( 25OHD ) , and eicosapentaenoic acid ( EPA , 20:5 n-3 ) + docosahexaenoic acid ( DHA , 22:6 n-3 ) in red blood cells .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24841107",
+    "title": "Although coexisting obstructive sleep apnea ( OSA ) and Cheyne-Stokes respiration ( CSR ) occur frequently in patients with heart diseases , optimal treatment remains unclear .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "polysomnography"
+    ],
+    "populations": [
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24472058",
+    "title": "Many physicians believe that the most effective way to treat chronic urticaria is to take a nonsedating second-generation H1 - antihistamine in the morning and a sedating first-generation H1 - antihistamine , usually hydroxyzine , at night to enhance sleep .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25266438",
+    "title": "To evaluate efficacy and safety of eszopiclone compared with placebo in children and adolescents with insomnia associated with attention-deficit/hyperactivity disorder ( ADHD ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "safety",
+      "adverse events"
+    ],
+    "populations": [
+      "children/adolescents",
+      "ADHD population",
+      "adolescents"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24382030",
+    "title": "Obstructive sleep apnea ( OSA ) and hypertension are well-known cardiovascular risk factors .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "adverse events"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25626984",
+    "title": "Sleep and ongoing cycling of sleep states are required for neurosensory processing , learning , and brain plasticity .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25183726",
+    "title": "Disturbance of the sleep-wake cycle is a characteristic of delirium .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "melatonin",
+      "placebo"
+    ],
+    "outcomes": [],
+    "populations": [
+      "older adults"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25124303",
+    "title": "Abstinence from chronic cocaine use is associated with abnormal sleep architecture .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I",
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "total sleep time"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25897569",
+    "title": "Although obstructive sleep apnea ( OSA ) is associated with impaired glucose tolerance and diabetes , it remains unclear whether OSA treatment with continuous positive airway pressure ( CPAP ) has metabolic benefits .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25537522",
+    "title": "Premenopausal women diagnosed with breast cancer are at risk for psychological and behavioral disturbances after cancer treatment .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "depression",
+      "fatigue"
+    ],
+    "populations": [
+      "menopausal women",
+      "cancer survivors",
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "waitlist",
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25024660",
+    "title": "To examine the measurement differences in sleep and EEG arousal statistics between the American Academy of Sleep Medicine ( AASM ) recommended EEG montage ( F4-M1 , C4-M1 , O2-M1 ) and acceptable EEG montage ( Fz-Cz , C4-M1 , Oz-Cz ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24673474",
+    "title": "There are limited comparative studies on classic and new-generation antihistamines that affect sleep quality and mood .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "anxiety",
+      "fatigue",
+      "sleep quality (PSQI)",
+      "daytime functioning",
+      "depression"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24879492",
+    "title": "The high prevalence of obstructive sleep apnea in patients with resistant hypertension could be mediated by an activation of the renin-angiotensin-aldosterone system .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25364081",
+    "title": "Obstructive sleep apnea ( OSA ) has been associated with hypertension , which is one of the intermediary mechanisms leading to increased cardiovascular morbidity .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25052847",
+    "title": "Central disinhibition is a mechanism involved in the physiopathology of fibromyalgia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "melatonin"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "pain",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24293754",
+    "title": "Home respiratory polygraphy ( HRP ) may be a cost-effective alternative to polysomnography ( PSG ) for diagnosis and treatment election in patients with high clinical probability of obstructive sleep apnea ( OSA ) , but there is conflicting evidence on its use for a wider spectrum of patients .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25646809",
+    "title": "To examine whether behavioural strategies designed to improve children 's sleep problems could also improve the symptoms , behaviour , daily functioning , and working memory of children with attention deficit hyperactivity disorder ( ADHD ) and the mental health of their parents .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education"
+    ],
+    "outcomes": [
+      "sleep onset latency",
+      "anxiety",
+      "mental health",
+      "quality of life",
+      "actigraphy",
+      "depression",
+      "sleep hygiene behaviour"
+    ],
+    "populations": [
+      "children/adolescents",
+      "ADHD population",
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24839251",
+    "title": "To investigate whether acute total sleep deprivation ( TSD ) leads to decreased cognitive control when food cues are presented during a task requiring active attention , by assessing the ability to cognitively inhibit prepotent responses .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24286360",
+    "title": "We compared the efficacy of melatonin and placebo as adjuvants in the withdrawal of patients from long term temazepam , zopiclone or zolpidem ( here ` BZD ' ) use .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "melatonin",
+      "placebo"
+    ],
+    "outcomes": [],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24463982",
+    "title": "This study aims to compare the effects of a mandibular advancement device ( MAD ) with continuous positive airway pressure ( CPAP ) treatment for obstructive sleep apnea ( OSA ) on blood pressure ( BP ) , oxidative stress , and heart rate variability ( HRV ) in a randomized , crossed-over , single-blind , and controlled trial .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25126034",
+    "title": "Home-based diagnosis of obstructive sleep apnea ( OSA ) with portable monitoring ( PM ) is increasingly utilized , but remains understudied in underserved and minority populations .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24440643",
+    "title": "To examine the effect of a 12-week Tai Chi ( TC ) intervention on physical function and quality of life .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "exercise"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "total sleep time",
+      "depression",
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24823456",
+    "title": "Insufficient sleep is associated with increased cardiometabolic risk .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep restriction therapy"
+    ],
+    "outcomes": [
+      "sleep onset latency"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24251826",
+    "title": "Acetazolamide has been used to attenuate Hunter-Cheyne-Stokes breathing with central sleep apnea ( CSA ) associated with heart failure .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "sleep onset latency"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24327037",
+    "title": "More than 70 % of patients with resistant hypertension have obstructive sleep apnea ( OSA ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "pain"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24790271",
+    "title": "Prior studies show that adaptive servoventilation ( ASV ) is initially more effective than continuous positive airway pressure ( CPAP ) for patients with complex sleep apnea syndrome ( CompSAS ) , but choosing therapies has been controversial because residual central breathing events may resolve over time in many patients receiving chronic CPAP therapy .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "sleep onset latency",
+      "quality of life"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24737406",
+    "title": "This study aimed to investigate the efficacy of UPPP combined with an oral appliance ( OA ) in the treatment of obstructive sleep apnea-hypopnea syndrome ( OSAHS ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25490277",
+    "title": "During puberty , reactivation of the reproductive axis occurs during sleep , with LH pulses specifically tied to deep sleep .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "sleep onset latency"
+    ],
+    "populations": [
+      "children/adolescents"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "26094838",
+    "title": "Some central hypersomnolence syndromes are associated with a positive allosteric modulator of - aminobutyric acid ( GABA ) - A receptors in cerebrospinal fluid .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "adverse events"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24991933",
+    "title": "Sleep-disturbed breathing ( SDB ) is common in patients with precapillary pulmonary hypertension ( PH ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "exercise",
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24733990",
+    "title": "The efficacy of cognitive behavioral therapy for insomnia ( CBT-I ) has been suggested for insomnia concomitant with depression , but its impact on quality of life ( QoL ) has not been adequately evaluated .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "depression",
+      "mental health",
+      "quality of life"
+    ],
+    "populations": [
+      "chronic insomnia"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24448046",
+    "title": "Protected sleep periods for internal medicine interns have previously resulted in increased amount slept and improved cognitive alertness but required supplemental personnel .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25344466",
+    "title": "No previous studies have validated the use of portable monitoring ( PM ) for the diagnosis of obstructive sleep apnea ( OSA ) in morbidly obese individuals .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24882907",
+    "title": "To evaluate a novel sleep education program for low-income preschool children and their families .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "children/adolescents",
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24874315",
+    "title": "To study the therapeutic efficacy and safety of Ginkgo special extract EGb 761 in the treatment of cognitive and non-cognitive symptoms ( anxiety , depression , sleep disorders , activity ) in patients with discirculatory encephalopathy ( DE ) and cognitive impairment .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "depression",
+      "safety",
+      "anxiety"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24594972",
+    "title": "Childhood eczema , or childhood atopic dermatitis , causes significant distress to children and their families through sleep disturbance and itch .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "children/adolescents"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24375332",
+    "title": "Aromatase inhibitors ( AIs ) have been associated with decrements in patient-reported outcomes ( PROs ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "anxiety",
+      "depression",
+      "quality of life"
+    ],
+    "populations": [
+      "menopausal women",
+      "cancer survivors",
+      "MS patients",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "26521571",
+    "title": "To compare the difference of clinical efficacy on sleeping disorder in the children with encephalopathy between the combined therapy of acupuncture at head points and seed-pressure at ear points and the simple acupuncture at head points .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "anxiety"
+    ],
+    "populations": [
+      "children/adolescents"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25197804",
+    "title": "To further our understanding of central sleep apnea ( CSA ) at high altitude during acclimatization , we tested the hypothesis that pharmacologically altering cerebral blood flow ( CBF ) would alter the severity of CSA at high altitude .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "pharmacotherapy",
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25695111",
+    "title": "Short sleep duration is a contributing factor for decreased insulin sensitivity and hyperglycemia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "total sleep time",
+      "sleep efficiency"
+    ],
+    "populations": [
+      "children/adolescents",
+      "adolescents"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24497655",
+    "title": "There is uncertainty over which characteristics increase obstructive sleep apnea syndrome ( OSAS ) severity in children .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "children/adolescents"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25246162",
+    "title": "Pharmacokinetic parameters of sedative-hypnotic medications can be influenced by age and gender .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "older adults",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25915102",
+    "title": "The incidence of obesity hypoventilation syndrome ( OHS ) may be increasing in parallel with the present obesity epidemic .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "dropout rate"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24379169",
+    "title": "This study aims to evaluate the effects on physical activity ( PA ) and eating behavior ( EB ) of a tailored behavioral medicine intervention and first-time continuous positive airway pressure ( CPAP ) treatment compared with first-time CPAP treatment and advice in patients with obstructive sleep apnea syndrome ( OSAS ) and overweight .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24661390",
+    "title": "Effective non-invasive ventilation ( NIV ) therapy is dependent on optimal ventilator settings to maximize clinical benefit and patient tolerance .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25439417",
+    "title": "To investigate whether melatonin administered intraoperatively reduced pain following laparoscopic cholecystectomy .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "melatonin",
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "pain",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25074944",
+    "title": "High-intensity noninvasive ventilation ( HI-NIV ) is the most effective means of improving several physiological and clinical parameters in subjects with chronic hypercapnic COPD .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "exercise"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "polysomnography",
+      "quality of life"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25348244",
+    "title": "Compare auto-adjusting positive airway pressure ( APAP ) treatment with positive airway pressure ( PAP ) titration by polysomnography ( PSG ) followed by CPAP treatment in patients diagnosed with obstructive sleep apnea ( OSA ) by home sleep apnea testing ( HSAT ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24925227",
+    "title": "Lack of adherence to recommended treatment for obstructive sleep apnea remains an ongoing public health challenge .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24235903",
+    "title": "Sleep hygiene recommendations are widely disseminated despite the fact that few systematic studies have investigated the empirical bases of sleep hygiene in the home environment .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education",
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep hygiene behaviour",
+      "total sleep time"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24889207",
+    "title": "The relationship between inadequate sleep and mood has been well-established in adults and is supported primarily by correlational data in younger populations .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep restriction therapy"
+    ],
+    "outcomes": [
+      "actigraphy",
+      "depression",
+      "fatigue"
+    ],
+    "populations": [
+      "adolescents"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24891081",
+    "title": "Despite their high prevalence in daily life , repeated night-wakings and their cognitive and emotional consequences have received less research attention compared to other types of sleep disturbances .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep restriction therapy"
+    ],
+    "outcomes": [
+      "actigraphy",
+      "depression",
+      "fatigue"
+    ],
+    "populations": [
+      "young adults",
+      "MS patients",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25876342",
+    "title": "To evaluate the effect mechanism of warm acupuncture combined with auricular point sticking therapy and its efficacy on insomnia by monitoring the level of brain neurotransmitters in the insomnia patients .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25601979",
+    "title": "Data from a randomized , controlled study of adenotonsillectomy for obstructive sleep apnea syndrome ( OSAS ) were used to test the hypothesis that children undergoing surgery had greater quality of life ( QoL ) and symptom improvement than control subjects .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "quality of life"
+    ],
+    "populations": [
+      "children/adolescents",
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25749595",
+    "title": "Mind-body therapies such as Tai Chi are widely used by breast cancer survivors , yet effects on inflammation are not known .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [],
+    "populations": [
+      "cancer survivors"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24267123",
+    "title": "We aimed to compare the effect and feasibility of a combined therapy with tamsulosin hydrochloride plus meloxicam , and tamsulosin hydrochloride alone in patients with benign prostate hyperplasia symptoms and impact on nocturia and sleep quality .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25611944",
+    "title": "To examine the effect of weight loss on sleep duration , sleep quality , and mood in 390 obese men and women who received one of three behavioral weight loss interventions in the Practice-based Opportunities for Weight Reduction trial at the University of Pennsylvania ( POWER-UP ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24237188",
+    "title": "Paullinia cupana ( guaran ) is an Amazonian plant that has been previously shown to be effective in treating chemotherapy-related fatigue ( CRF ) in patients with breast cancer .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep onset latency",
+      "anxiety",
+      "fatigue",
+      "sleep quality (PSQI)",
+      "depression"
+    ],
+    "populations": [
+      "cancer survivors"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24383406",
+    "title": "To evaluate changes in self-reported nocturia in community-dwelling adults aged 60 and older who received behavioral treatment for chronic insomnia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep onset latency",
+      "nocturnal awakenings"
+    ],
+    "populations": [
+      "older adults",
+      "adults with insomnia",
+      "chronic insomnia"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24993832",
+    "title": "In light of the high prevalence of sleep disorders in patients suffering from posttraumatic stress disorder ( PTSD ) , this study sought to compare the effect of prazosin and hydroxyzine on sleep quality in this patient group .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "pharmacotherapy",
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25337948",
+    "title": "To compare treatment effects when patients with insomnia and depression receive treatment for either insomnia or depression .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "digital CBT-I"
+    ],
+    "outcomes": [
+      "depression",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "comorbid insomnia"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25516028",
+    "title": "To compare the effects of different types of physical and mental activity on self-reported sleep quality over 12 weeks in older adults with cognitive and sleep complaints .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "older adults",
+      "adults with insomnia",
+      "MS patients",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24401051",
+    "title": "Obstructive sleep apnea is associated with considerable health risks .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "safety",
+      "adverse events",
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "26255514",
+    "title": "To observe the efficacy of catgut implantation at back-shu points in treatment of mild perimenopausal depression of kidney , deficiency and liver stagnation syndrome and analyze its essential function on target symptoms .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "depression",
+      "anxiety"
+    ],
+    "populations": [
+      "menopausal women",
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25011661",
+    "title": "Various studies have linked the occurrence of cardiovascular events and low ambient temperatures as well as the morning blood pressure surge ( MBPS ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25367636",
+    "title": "This study evaluated the effectiveness of a stress management intervention combining individual cognitive behavioral therapy ( CBT ) with a brief workplace intervention on self-reported measures of sleep and cognitive functioning among patients on sick leave due to work-related stress complaints .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "depression"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24569045",
+    "title": "Agomelatine was efficacious in reducing symptoms in a short-term placebo-controlled trial in generalized anxiety disorder ( GAD ) and in preventing relapse in a longer term placebo-controlled study .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "anxiety",
+      "adverse events"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24710994",
+    "title": "Despite improvements in the diagnosis and treatment of depression , primary care provider ( PCP ) discussion regarding suicidal thoughts among patients with depressive symptoms remains low .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education"
+    ],
+    "outcomes": [
+      "depression",
+      "sleep hygiene behaviour"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25099523",
+    "title": "Pruritus is common among patients with end-stage renal disease undergoing dialysis , and the pathogenesis can be explained by several mechanisms .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "sleep onset latency",
+      "quality of life",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24952387",
+    "title": "Mental and physical fatigue while at work is common among emergency medical services ( EMS ) shift workers .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "safety",
+      "fatigue"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24918371",
+    "title": "Obesity and obstructive sleep apnea tend to coexist and are associated with inflammation , insulin resistance , dyslipidemia , and high blood pressure , but their causal relation to these abnormalities is unclear .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "adults with insomnia"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24991815",
+    "title": "We investigated the association of HIV infection and highly active antiretroviral therapy ( HAART ) with sleep disordered breathing ( SDB ) , fatigue , and sleepiness .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "fatigue"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24398824",
+    "title": "Previous open-label studies have suggested that quetiapine could be a valuable alternative for treating fibromyalgia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "anxiety",
+      "adverse events",
+      "quality of life",
+      "sleep quality (PSQI)",
+      "depression"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25142565",
+    "title": "To evaluate the ability of the Sonomat to diagnose obstructive sleep apnea ( OSA ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24742146",
+    "title": "The physical and mental health of college-age youths tends to continuously decline around the world .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "exercise"
+    ],
+    "outcomes": [
+      "safety",
+      "mental health",
+      "quality of life"
+    ],
+    "populations": [
+      "young adults",
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25409110",
+    "title": "There is a need for the accurate assessment of circadian phase outside of the clinic/laboratory , particularly with the gold standard dim light melatonin onset ( DLMO ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "light therapy",
+      "melatonin"
+    ],
+    "outcomes": [
+      "dim light melatonin onset"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25221387",
+    "title": "Accumulated evidence implicates sympathetic activation as inducing oxidative stress and systemic inflammation , which in turn lead to hypertension , endothelial dysfunction , and atherosclerosis in obstructive sleep apnea ( OSA ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [],
+    "populations": [
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25088843",
+    "title": "Because of lack of information regarding timing of stroke , patients who suffer stroke during sleep are generally ineligible for intravenous thrombolysis , although many of these patients could potentially recover with this treatment .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "safety"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24602411",
+    "title": "Pain is a troublesome non-motor symptom of Parkinson 's disease ( PD ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "pain"
+    ],
+    "populations": [
+      "Parkinson patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24634627",
+    "title": "To investigate the effects of botulinum toxin type A ( BoNT-A ) injection on jaw motor episodes during sleep in patients with or without orofacial pain who did not respond to oral splint treatment .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "safety",
+      "pain"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24352294",
+    "title": "The extent to which alterations in energy expenditure ( EE ) in response to sleep restriction contribute to the short sleep-obesity relationship is not clearly defined .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep restriction therapy"
+    ],
+    "outcomes": [],
+    "populations": [
+      "menopausal women",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25145323",
+    "title": "Epidemiological studies suggest the existence of a relationship between aircraft noise exposure and increased risk for myocardial infarction and stroke .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24308310",
+    "title": "The physical and mental health of college students tends to continuously decline around the world .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "exercise"
+    ],
+    "outcomes": [
+      "safety",
+      "mental health",
+      "adverse events",
+      "quality of life"
+    ],
+    "populations": [
+      "young adults",
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24684940",
+    "title": "Mild hypoxia is common in stroke patients and may have significant adverse effects on the ischemic brain after stroke .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "adverse events"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24822235",
+    "title": "To compare the effectiveness of adding cyclobenzaprine , tizanidine , or placebo to patient education and a self-care management program for patients with myofascial pain and specifically presenting with jaw pain upon awakening .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "patient education",
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "pain"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "patient education",
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25005652",
+    "title": "Behavioral approaches and pharmacotherapy are of proven benefit in assisting smokers to quit , but it is unclear whether combining nicotine replacement therapy ( NRT ) with varenicline to improve abstinence is effective and safe .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "depression",
+      "safety",
+      "adverse events"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24790277",
+    "title": "Rapid eye movement ( REM ) sleep is considered critical to the consolidation of procedural memory - the memory of skills and habits .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "sleep onset latency"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24426817",
+    "title": "Numerous studies have demonstrated that sleep promotes memory consolidation , but there is little research on the effect of hypnotics on sleep-dependent memory consolidation .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep onset latency"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25474490",
+    "title": "It is important to distinguish children with different levels of severity of obstructive sleep apnea syndrome ( OSAS ) preoperatively using clinical parameters .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "children/adolescents"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25658017",
+    "title": "Short sleep duration is associated with an increased risk of type 2 diabetes .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep restriction therapy"
+    ],
+    "outcomes": [
+      "sleep onset latency"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25478944",
+    "title": "To investigate the resolution of heartburn and gastroesophageal reflux disease ( GERD ) - related sleep disturbances during the first 14 days of treatment with esomeprazole 20mg compared to placebo in subjects with frequent nighttime heartburn and GERD-related sleep disturbances .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep onset latency"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24815497",
+    "title": "Obstructive sleep apnea ( OSA ) is associated with increased risk of cardiovascular and cerebrovascular disease resulting from intermittent hypoxia ( IH ) - induced inflammation .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "26047808",
+    "title": "Communication , impulse control and motivation can all be affected by Bipolar Disorder ( BD ) making consistent parenting more difficult than for parents without mental health problems .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "psychoeducation"
+    ],
+    "outcomes": [
+      "depression",
+      "mental health",
+      "anxiety"
+    ],
+    "populations": [
+      "children/adolescents",
+      "ADHD population",
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25667240",
+    "title": "Polysomnography defines the pathophysiology of obstructive sleep apnea syndrome ( OSAS ) but does not predict some important comorbidities or their response to adenotonsillectomy .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "quality of life",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25417120",
+    "title": "This study will evaluate hypoxia , as a novel concept in the pathogenesis of diabetic macular oedema ( DMO ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "safety",
+      "adverse events"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24497220",
+    "title": "In the last years there has been a progressive reduction of the average duration of sleep and an increase in the incidence of sleep disturbances .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "benzodiazepines"
+    ],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25025601",
+    "title": "Irritable bowel syndrome ( IBS ) is a chronic , disabling condition that greatly compromises patient functioning .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "pain",
+      "fatigue",
+      "quality of life"
+    ],
+    "populations": [
+      "young adults",
+      "MS patients",
+      "adolescents"
+    ],
+    "comparators": [
+      "waitlist",
+      "control group"
+    ]
+  },
+  {
+    "pmid": "26323938",
+    "title": "Central sleep apnea is associated with poor prognosis and death in patients with heart failure .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "26142600",
+    "title": "To assess ( 1 ) plasma levels of antidiuretic hormone ( ADH ) and brain natriuretic peptide ( BNP ) and urinary levels of electrolytes in children with sleep disordered breathing ( SDB ) , with or without nocturnal enuresis ( NE ) , and ( 2 ) the effect of adenotonsillectomy ( T&A ) on urinary electrolytes and the secretion of ADH and BNP in children with NE and SDB .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "children/adolescents"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25443996",
+    "title": "To investigate the impact of a 12-week exercise programme in addition to usual care for post-traumatic stress disorder ( PTSD ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "exercise"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "depression"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25485857",
+    "title": "Fibromyalgia is a chronic musculoskeletal pain syndrome characterized by a broad spectrum of manifestations .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "anxiety",
+      "adverse events",
+      "pain",
+      "sleep quality (PSQI)",
+      "depression",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25652579",
+    "title": "Insomnia is a significant risk factor for depression onset , can result in more disabling depressive illness , and is a common residual symptom following treatment cessation that can increase the risk of relapse .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I",
+      "digital CBT-I"
+    ],
+    "outcomes": [
+      "depression",
+      "sleep onset latency"
+    ],
+    "populations": [
+      "MS patients",
+      "insomnia patients",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24457253",
+    "title": "RECOVER ( NCT00474058 ) , a double-blind , placebo-controlled trial in patients with Parkinson 's disease ( PD ) and unsatisfactory early-morning motor symptom control , demonstrated significant improvements with rotigotine in early-morning motor function ( Unified Parkinson 's Disease Rating Scale [ UPDRS ] III ) , and nocturnal sleep disturbances ( modified Parkinson 's Disease Sleep Scale [ PDSS-2 ] ) , and improvements in nonmotor symptoms ( NMS ; Non-Motor Symptom Scale [ NMSS ] ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [],
+    "populations": [
+      "MS patients",
+      "Parkinson patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24731416",
+    "title": "To explore the long-term effects of the uvulopalatopharyngoplasty ( UPPP ) combined with oral appliance ( OA ) in the treatment of obstructive sleep apnea hypopnea syndrome ( OSAHS ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24434090",
+    "title": "Examine how different dosing schedules and recent stimulant therapy effect incidence , time to onset , and duration of common treatment-emergent adverse events ( TEAEs ) during atomoxetine treatment .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep onset latency",
+      "fatigue",
+      "safety",
+      "adverse events",
+      "pain"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24286114",
+    "title": "The long-term safety and therapeutic response of sodium oxybate ( SXB ) in fibromyalgia syndrome ( FM ) patients were assessed for a combined period of up to 1 year in a prospective , multicenter , open-label , extension study in patients completing 1 of 2 phase 3 randomized , double-blind , controlled , 14-week trials that examined the efficacy and safety of SXB 4.5 g , SXB 6 g , and placebo for treatment of FM .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "safety",
+      "anxiety",
+      "adverse events",
+      "pain"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24587570",
+    "title": "Patients with excessive daytime sleepiness ( EDS ) are at high risk for driving accidents , and physicians are concerned by the effect of alerting drugs on driving skills of sleepy patients .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "daytime functioning"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24887018",
+    "title": "Increasing evidence suggests a relationship between poor sleep and the risk of developing Alzheimer disease .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "dementia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24331802",
+    "title": "To investigate the clinical efficacy of noninvasive positive pressure ventilation ( NPPV ) in treatment of patients with arrhythmia complicated by sleep apnea syndrome ( SAS ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25007667",
+    "title": "To investigate the postoperative application of nasopharyngeal airway ( NPA ) in rhinogenous obstructive sleep apnea hypopnea syndrome ( OSAHS ) patients , so that to observe the parameters including vital signs of the patients and evaluatethe value of clinical application and reliability of NPA .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "safety",
+      "pain"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25387805",
+    "title": "Despite the reported detrimental effects of international air travel on physical performance , a paucity of interventions have been scientifically tested and confirmed to benefit travelling athletes .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education"
+    ],
+    "outcomes": [
+      "sleep hygiene behaviour",
+      "fatigue"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24899762",
+    "title": "To assess the time-dependent effect of continuous positive airway pressure ( CPAP ) , on insulin-like growth factor-1 ( IGF-1 ) , IGF binding proteins ( IGFBPs ) and pulsatile growth hormone ( GH ) secretion .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24910546",
+    "title": "Patients with severe OSA consume greater amounts of cholesterol , protein , and fat as well as have greater caloric expenditure .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep efficiency",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24350813",
+    "title": "The purpose of this study was to evaluate the long-term safety and efficacy of risperidone in treating irritability and related behaviors in children and adolescents with autistic disorders .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "safety",
+      "adverse events",
+      "fatigue"
+    ],
+    "populations": [
+      "children/adolescents",
+      "adolescents"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24338242",
+    "title": "Capnography enables the measurement of end-tidal CO2 and thereby the early detection of apnea , prompting immediate intervention to restore ventilation .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24906586",
+    "title": "Our aim was to explore the effectiveness of energy healing , a commonly used complementary and alternative therapy , on well-being in cancer patients while assessing the possible influence on the results of participating in a randomized controlled trial .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24560188",
+    "title": "Obstructive sleep apnea ( OSA ) is a chronic progressive disease , and it is well-documented that severe OSA is associated with an increased cardiovascular morbidity and mortality .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25325498",
+    "title": "Forty-one percent of shift workers report dozing while driving .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "cognitive function"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25424573",
+    "title": "Epidemiologic evidence suggests a link between short sleep duration and cardiovascular risk , although the nature of any relationship and mechanisms remain unclear .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep restriction therapy"
+    ],
+    "outcomes": [],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24397408",
+    "title": "Age-related sleep changes have been associated with altered hypothalamic-pituitary-adrenal axis reactivity and impaired feedback inhibition at the glucocorticoid ( GR ) and mineralocorticoid ( MR ) receptor level .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [],
+    "populations": [
+      "older adults"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24382614",
+    "title": "Sleep deprivation in hospitalized patients is common and can have serious detrimental effects on recovery from illness .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24502751",
+    "title": "Many patients on maintenance dialysis experience significant sleepiness and fatigue .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "fatigue"
+    ],
+    "populations": [
+      "MS patients",
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25711974",
+    "title": "Minority patients with breast cancer are at risk for undertreatment of cancer-related pain .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "pain"
+    ],
+    "populations": [
+      "MS patients",
+      "cancer survivors",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24351803",
+    "title": "We hypothesized increasing obstructive sleep apnea ( OSA ) severity would be associated with nondipping blood pressure ( BP ) in increased cardiovascular disease ( CVD ) risk .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24280382",
+    "title": "Obstructive sleep apnea ( OSA ) relates to overnight rostral fluid shift , possibly because fluid accumulation around the pharynx increases pharyngeal resistance ( Rph ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24957753",
+    "title": "We tested the hypothesis that sleep training would improve emotional , social and behavioural functioning in children with attention-deficit/hyperactivity disorder ( ADHD ) compared to children with ADHD without such intervention and to healthy controls .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "sleep hygiene education"
+    ],
+    "outcomes": [
+      "sleep hygiene behaviour",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "children/adolescents",
+      "ADHD population"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24970708",
+    "title": "The aim of this randomized controlled trial was to investigate the effects of conventional face-to-face group cognitive behavioral therapy ( GCBT ) and an Internet-delivered guided self-help treatment ( Internet-based CBT , ICBT ) on tinnitus distress .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "depression",
+      "anxiety",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "adults with insomnia"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25325609",
+    "title": "To evaluate the efficacy and tolerability of armodafinil in patients with excessive sleepiness following mild or moderate closed traumatic brain injury ( TBI ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "adverse events",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "adults with insomnia"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24867298",
+    "title": "Safety and efficacy of a once daily controlled-released ( CR ) formulation of pregabalin was evaluated in patients with fibromyalgia using a placebo-controlled , randomized withdrawal design .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "safety",
+      "adverse events",
+      "fatigue",
+      "pain"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25347696",
+    "title": "Cough is one of the most common reasons why children visit a health care professional .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "children/adolescents"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24390800",
+    "title": "To evaluate the effect of radiofrequency surgery of the soft palate on daytime sleepiness in snoring men with mild or no sleep apnea .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "daytime functioning"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24561163",
+    "title": "Sleep apnea ( SA ) is associated with cardiovascular diseases and is highly prevalent in patients with pacemakers ( PMs ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24349492",
+    "title": "To determine if sleep talkers with REM sleep behavior disorder ( RBD ) would utter during REM sleep sentences learned before sleep , and to evaluate their verbal memory consolidation during sleep .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography",
+      "sleep onset latency"
+    ],
+    "populations": [
+      "dementia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24281285",
+    "title": "To investigate the therapeutic effects of a manual therapy protocol for improving pain , function , pressure pain thresholds ( PPT ) , quality of sleep , and depressive symptoms in women and men with fibromyalgia syndrome ( FMS ) .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "pain"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25092036",
+    "title": "Probiotics have treatment efficacy in irritable bowel syndrome ( IBS ) , but the exact mechanism remains obscure .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "melatonin",
+      "placebo"
+    ],
+    "outcomes": [
+      "pain"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24393346",
+    "title": "To explore the effect of continuous nursing intervention guided by chronotherapeutics so as to provide the easy , noninvasive , effective and acceptable intervention for older hypertensive patients in the community .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "24259978",
+    "title": "To compare the efficacy and side effects of low-dose amitriptyline ( AMT ) with proton pump inhibitor treatment in patients with globus pharyngeus .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "mental health",
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24394682",
+    "title": "To evaluate a prevention program for infant sleep and cry problems and postnatal depression .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "depression"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25125635",
+    "title": "Obstructive sleep apnea ( OSA ) can result in hypertension and significantly increase cardiovascular morbidity and mortality .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "daytime functioning"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25234526",
+    "title": "The purpose of this study was to determine the efficacy of pre-emptive analgesia with pregabalin and celecoxib on narcotic consumption and perceived pain in adult patients undergoing maxillomandibular advancement surgery for obstructive sleep apnea .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "pain"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24554232",
+    "title": "No highly effective interventions to prevent delirium have been identified .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "melatonin",
+      "ramelteon",
+      "placebo"
+    ],
+    "outcomes": [],
+    "populations": [
+      "older adults",
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24889392",
+    "title": "L-ornithine is a non-essential , non-protein amino acid .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "sleep onset latency",
+      "fatigue"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24923573",
+    "title": "Pain control has been emphasized as a priority for both practitioners and inpatients with rib fractures , since analgesia could only offer limited relief from severe pain .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)",
+      "pain"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24946226",
+    "title": "Postoperative sore throat is one of the most common problems after tonsillectomy .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep onset latency",
+      "adverse events",
+      "pain"
+    ],
+    "populations": [
+      "children/adolescents",
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24577847",
+    "title": "The Institute of Medicine recommends developing a broader workforce of mental health providers , including nontraditional providers , to expand services for older adults .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "CBT-I"
+    ],
+    "outcomes": [
+      "anxiety",
+      "mental health",
+      "quality of life",
+      "depression",
+      "insomnia severity (ISI)"
+    ],
+    "populations": [
+      "older adults",
+      "adults with insomnia"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24446953",
+    "title": "Brivaracetam ( BRV ) is a novel high-affinity synaptic vesicle protein 2A ligand currently being investigated for the treatment of epilepsy .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "safety",
+      "adverse events",
+      "fatigue"
+    ],
+    "populations": [
+      "adults with insomnia",
+      "epilepsy patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24920550",
+    "title": "The objective was to determine the separate and combined effects of hypoxia and inactivity/unloading on sleep architecture during a 10-day period of confinement .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25639732",
+    "title": "The aim of the present exploratory clinical study was to evaluate LD as an add-on therapy for treating nightmares .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25416480",
+    "title": "Benzodiazepines and related drugs affect physical functioning negatively and increase fall and fracture risk .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "benzodiazepines"
+    ],
+    "outcomes": [],
+    "populations": [
+      "older adults",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24253484",
+    "title": "Menopause predisposes women to sleep-disordered breathing ( SDB ) and sleep disturbances .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "menopausal women",
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25346376",
+    "title": "The effect of the Pillar implant on mild sleep-disordered breathing ( SDB ) has been assessed in various studies .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "sleep onset latency",
+      "daytime functioning",
+      "adverse events"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25126027",
+    "title": "We hypothesized that untreated severe obstructive sleep apnea ( OSA ) is associated with elevated ambulatory blood pressure ( BP ) in subjects with high cardiovascular disease ( CVD ) risk despite medical management .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24980066",
+    "title": "Whether there are age-related changes in slow wave activity ( SWA ) rise time , a marker of homeostatic sleep drive , is unknown .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [],
+    "populations": [
+      "older adults",
+      "young adults"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25056567",
+    "title": "We sought to determine the dose-response effects of extended-release ( ER ) dexmethylphenidate ( d-MPH ) and ER mixed amphetamine salts ( MAS ) on objective measures of sleep .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "actigraphy"
+    ],
+    "populations": [
+      "children/adolescents",
+      "ADHD population"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24643203",
+    "title": "Previous phase III studies in patients with advanced Parkinson 's disease ( PD ) not adequately controlled on levodopa demonstrated significant reduction of ` off ' time with rotigotine transdermal system up to 16 mg/24 h. However , the minimal effective dose has not been established .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep onset latency",
+      "adverse events"
+    ],
+    "populations": [
+      "Parkinson patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24720558",
+    "title": "Patients with obstructive sleep apnea ( OSA ) experience respiratory events with greater frequency and severity while in the supine sleeping position .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "MS patients",
+      "women"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25624387",
+    "title": "Pediatric sleep disordered breathing is often caused by hypertrophy of the tonsils and is commonly managed by tonsillectomy .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "pain"
+    ],
+    "populations": [
+      "children/adolescents"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25644221",
+    "title": "Abundant evidence suggests that allelic variation in the serotonin transporter-linked polymorphic region ( 5-HTTLPR ) influences susceptibility to stress and its affective consequences due to brain serotonergic vulnerability .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "sleep quality (PSQI)"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "25543421",
+    "title": "To compare the efficacy difference in treatment of depression in breast cancer between the combined therapy of acupuncture and auricular acupressure and western medication .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "depression",
+      "safety",
+      "anxiety"
+    ],
+    "populations": [
+      "cancer survivors"
+    ],
+    "comparators": [
+      "control group"
+    ]
+  },
+  {
+    "pmid": "25639198",
+    "title": "This study aimed to compare application of the Mller maneuver ( MM ) and application of drug-induced sleep endoscopy ( DISE ) prior to surgery , in addition to MM , to further ascertain the location of an obstruction in the upper airway and whether the location would change the surgical treatment plan in patients with retropalatal obstruction .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [],
+    "outcomes": [
+      "polysomnography"
+    ],
+    "populations": [
+      "insomnia patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "25137243",
+    "title": "Sleep disturbances are common among women in midlife ; prevalence increases among perimenopausal/postmenopausal women with vasomotor symptoms .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "placebo"
+    ],
+    "outcomes": [
+      "safety",
+      "adverse events"
+    ],
+    "populations": [
+      "menopausal women",
+      "MS patients",
+      "women"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  },
+  {
+    "pmid": "24748778",
+    "title": "Delirium is associated with poor outcomes following acute hospitalization .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "light therapy"
+    ],
+    "outcomes": [
+      "sleep onset latency"
+    ],
+    "populations": [
+      "older adults",
+      "MS patients"
+    ],
+    "comparators": []
+  },
+  {
+    "pmid": "24891007",
+    "title": "Randomised , double-blind , placebo-controlled crossover trial of melatonin supplementation to people with complete tetraplegia .",
+    "year": 2016,
+    "study_type": "RCT",
+    "interventions": [
+      "melatonin",
+      "placebo"
+    ],
+    "outcomes": [
+      "polysomnography",
+      "quality of life"
+    ],
+    "populations": [
+      "MS patients"
+    ],
+    "comparators": [
+      "placebo"
+    ]
+  }
+]
