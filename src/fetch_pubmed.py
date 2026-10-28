@@ -1,36 +1,28 @@
 """
-fetch_pubmed_sleep.py
-=====================
-Run this locally to fetch 300+ real PubMed abstracts on sleep disorder interventions.
+Fetch PubMed abstracts about sleep disorder interventions.
 
-Requirements:
-    pip install biopython
+Run with:
+    python src/fetch_pubmed.py
 
-Usage:
-    python fetch_pubmed_sleep.py
-
-Output:
-    sleep_corpus_300.json  (feed this into sleep_pipeline.py)
-
-Takes about 2-3 minutes. No API key needed for ≤3 requests/second.
+The resulting corpus is written to sleep_corpus_300.json in the current
+working directory.
 """
 
 import json
 import time
-import sys
+from collections import Counter
 
 try:
     from Bio import Entrez, Medline
 except ImportError:
-    print("Install biopython first:  pip install biopython")
-    sys.exit(1)
+    Entrez = None
+    Medline = None
 
-# ── CONFIG ──────────────────────────────────────────────────────
-Entrez.email = "your.email@example.com"  # ← CHANGE THIS to your email
-TARGET = 350  # fetch extra, will deduplicate
+
+TARGET = 350
 BATCH = 50
+OUTPUT_FILE = "sleep_corpus_300.json"
 
-# Multiple queries to cover the breadth of sleep interventions
 QUERIES = [
     '("insomnia" OR "sleep disorder") AND "randomized" AND ("cognitive behavioral therapy" OR "CBT-I") AND ("sleep quality" OR "sleep onset" OR "insomnia severity")',
     '("insomnia" OR "sleep disorder") AND "randomized" AND "melatonin" AND ("sleep onset latency" OR "total sleep time" OR "sleep efficiency")',
@@ -45,121 +37,164 @@ QUERIES = [
     '("insomnia") AND "randomized" AND ("older adults" OR "elderly" OR "geriatric") AND ("CBT" OR "sleep")',
     '("insomnia") AND "randomized" AND ("adolescent" OR "children" OR "pediatric") AND ("melatonin" OR "CBT")',
     '("insomnia") AND "randomized" AND ("acupuncture" OR "valerian" OR "herbal" OR "supplement") AND "sleep"',
-    '("insomnia") AND "randomized" AND ("comorbid" OR "depression" OR "anxiety" OR "PTSD" OR "cancer") AND "sleep"',
+    '("insomnia" OR "sleep disorder") AND "randomized" AND ("comorbid" OR "depression" OR "anxiety" OR "PTSD" OR "cancer") AND "sleep"',
 ]
 
-# ── FETCH ───────────────────────────────────────────────────────
-all_pmids = set()
-print(f"Searching PubMed with {len(QUERIES)} queries...")
 
-for i, query in enumerate(QUERIES):
+def classify_study_type(title, abstract, publication_types):
+    """Classify an article using PubMed publication types and its text."""
+    types_text = " ".join(publication_types).lower()
+    if "meta-analysis" in types_text:
+        return "meta-analysis"
+    if "systematic review" in types_text or "review" in types_text:
+        return "review"
+    if "randomized controlled trial" in types_text or "clinical trial" in types_text:
+        return "RCT"
+    if "observational" in types_text or "cohort" in types_text:
+        return "cohort"
+
+    text_lower = (title + " " + abstract).lower()
+    if "randomized" in text_lower or "randomised" in text_lower:
+        return "RCT"
+    if "meta-analysis" in text_lower:
+        return "meta-analysis"
+    if "systematic review" in text_lower:
+        return "review"
+    return "other"
+
+
+def parse_publication_year(year_text):
+    """Return the leading four-digit year, or 2020 when it is unavailable."""
     try:
-        handle = Entrez.esearch(db="pubmed", term=query, retmax=80, sort="relevance")
-        results = Entrez.read(handle)
-        handle.close()
-        pmids = results.get("IdList", [])
-        all_pmids.update(pmids)
-        print(f"  Query {i+1}/{len(QUERIES)}: {len(pmids)} hits (total unique: {len(all_pmids)})")
-        time.sleep(0.4)  # respect rate limits
-    except Exception as e:
-        print(f"  Query {i+1} failed: {e}")
+        return int(year_text[:4])
+    except (TypeError, ValueError, IndexError):
+        return 2020
 
-print(f"\nTotal unique PMIDs: {len(all_pmids)}")
 
-# Limit to TARGET
-pmid_list = list(all_pmids)[:TARGET]
+def make_abstract_record(record):
+    """Convert a parsed PubMed record, skipping missing or stub abstracts."""
+    abstract = record.get("AB", "")
+    if not abstract or len(abstract) < 100:
+        return None
 
-# ── FETCH ABSTRACTS ─────────────────────────────────────────────
-print(f"\nFetching {len(pmid_list)} abstracts in batches of {BATCH}...")
-abstracts = []
+    title = record.get("TI", "")
+    return {
+        "pmid": record.get("PMID", ""),
+        "title": title,
+        "year": parse_publication_year(record.get("DP", "2000")),
+        "abstract": abstract,
+        "study_type": classify_study_type(title, abstract, record.get("PT", [])),
+    }
 
-for start in range(0, len(pmid_list), BATCH):
-    batch = pmid_list[start:start + BATCH]
-    try:
-        handle = Entrez.efetch(db="pubmed", id=batch, rettype="medline", retmode="text")
-        records = list(Medline.parse(handle))
-        handle.close()
 
-        for rec in records:
-            pmid = rec.get("PMID", "")
-            title = rec.get("TI", "")
-            abstract = rec.get("AB", "")
-            year_str = rec.get("DP", "2000")  # e.g., "2023 Jan 15"
-            pub_types = rec.get("PT", [])
+def deduplicate_abstracts(abstracts):
+    """Keep the first occurrence of each PMID while preserving input order."""
+    seen = set()
+    unique = []
+    for abstract in abstracts:
+        if abstract["pmid"] not in seen:
+            seen.add(abstract["pmid"])
+            unique.append(abstract)
+    return unique
 
-            if not abstract or len(abstract) < 100:
-                continue  # skip empty/stub abstracts
 
-            # Determine study type from MeSH/pub types
-            pt_lower = " ".join(pub_types).lower()
-            if "meta-analysis" in pt_lower:
-                study_type = "meta-analysis"
-            elif "systematic review" in pt_lower or "review" in pt_lower:
-                study_type = "review"
-            elif "randomized controlled trial" in pt_lower or "clinical trial" in pt_lower:
-                study_type = "RCT"
-            elif "observational" in pt_lower or "cohort" in pt_lower:
-                study_type = "cohort"
-            else:
-                # Infer from abstract text
-                text_lower = (title + " " + abstract).lower()
-                if "randomized" in text_lower or "randomised" in text_lower:
-                    study_type = "RCT"
-                elif "meta-analysis" in text_lower:
-                    study_type = "meta-analysis"
-                elif "systematic review" in text_lower:
-                    study_type = "review"
-                else:
-                    study_type = "other"
+def search_pubmed(entrez_client=None, sleep_fn=time.sleep):
+    """Search PubMed and return unique PMIDs from the configured queries."""
+    client = entrez_client or Entrez
+    if client is None:
+        raise RuntimeError("Biopython is required. Install it with: pip install biopython")
 
+    all_pmids = set()
+    print(f"Searching PubMed with {len(QUERIES)} queries...")
+    for index, query in enumerate(QUERIES, start=1):
+        try:
+            handle = client.esearch(
+                db="pubmed", term=query, retmax=80, sort="relevance"
+            )
             try:
-                year = int(year_str[:4])
-            except (ValueError, IndexError):
-                year = 2020
+                results = client.read(handle)
+            finally:
+                handle.close()
+            pmids = results.get("IdList", [])
+            all_pmids.update(pmids)
+            print(
+                f"  Query {index}/{len(QUERIES)}: {len(pmids)} hits "
+                f"(total unique: {len(all_pmids)})"
+            )
+            sleep_fn(0.4)
+        except Exception as error:
+            print(f"  Query {index} failed: {error}")
 
-            abstracts.append({
-                "pmid": pmid,
-                "title": title,
-                "year": year,
-                "abstract": abstract,
-                "study_type": study_type,
-            })
+    return list(all_pmids)[:TARGET]
 
-        fetched = min(start + BATCH, len(pmid_list))
-        print(f"  Fetched {fetched}/{len(pmid_list)} — {len(abstracts)} with abstracts so far")
-        time.sleep(0.5)
 
-    except Exception as e:
-        print(f"  Batch starting at {start} failed: {e}")
+def fetch_abstracts(
+    pmids, entrez_client=None, medline_parser=None, batch_size=BATCH, sleep_fn=time.sleep
+):
+    """Fetch and parse abstracts for PMIDs in batches."""
+    client = entrez_client or Entrez
+    parser = medline_parser or Medline
+    if client is None or parser is None:
+        raise RuntimeError("Biopython is required. Install it with: pip install biopython")
 
-# ── DEDUPLICATE AND SAVE ────────────────────────────────────────
-seen = set()
-unique = []
-for a in abstracts:
-    if a["pmid"] not in seen:
-        seen.add(a["pmid"])
-        unique.append(a)
+    abstracts = []
+    print(f"\nFetching {len(pmids)} abstracts in batches of {batch_size}...")
+    for start in range(0, len(pmids), batch_size):
+        batch = pmids[start : start + batch_size]
+        try:
+            handle = client.efetch(
+                db="pubmed", id=batch, rettype="medline", retmode="text"
+            )
+            try:
+                records = list(parser.parse(handle))
+            finally:
+                handle.close()
 
-output_file = "sleep_corpus_300.json"
-with open(output_file, "w") as f:
-    json.dump(unique, f, indent=2)
+            for record in records:
+                abstract = make_abstract_record(record)
+                if abstract is not None:
+                    abstracts.append(abstract)
 
-# ── SUMMARY ─────────────────────────────────────────────────────
-from collections import Counter
-types = Counter(a["study_type"] for a in unique)
-years = [a["year"] for a in unique]
+            fetched = min(start + batch_size, len(pmids))
+            print(
+                f"  Fetched {fetched}/{len(pmids)} — "
+                f"{len(abstracts)} with abstracts so far"
+            )
+            sleep_fn(0.5)
+        except Exception as error:
+            print(f"  Batch starting at {start} failed: {error}")
 
-print(f"""
-{'='*60}
-CORPUS COMPLETE
-{'='*60}
-  Abstracts saved: {len(unique)}
-  Output file:     {output_file}
-  Study types:     {dict(types)}
-  Year range:      {min(years)}-{max(years)}
-  
-NEXT STEP:
-  Copy {output_file} to the same folder as sleep_pipeline.py
-  Edit sleep_pipeline.py line 5: change the filename to '{output_file}'
-  Run:  python sleep_pipeline.py
-""")
+    return abstracts
+
+
+def main(output_file=OUTPUT_FILE):
+    """Fetch abstracts from PubMed and save the deduplicated corpus."""
+    if Entrez is None or Medline is None:
+        print("Install biopython first: pip install biopython")
+        return 1
+
+    Entrez.email = "your.email@example.com"
+    pmids = search_pubmed()
+    print(f"\nTotal unique PMIDs: {len(pmids)}")
+    abstracts = deduplicate_abstracts(fetch_abstracts(pmids))
+
+    with open(output_file, "w", encoding="utf-8") as output:
+        json.dump(abstracts, output, indent=2)
+
+    types = Counter(abstract["study_type"] for abstract in abstracts)
+    years = [abstract["year"] for abstract in abstracts]
+    year_range = f"{min(years)}-{max(years)}" if years else "unavailable"
+    print(
+        f"\n{'=' * 60}\n"
+        "CORPUS COMPLETE\n"
+        f"{'=' * 60}\n"
+        f"  Abstracts saved: {len(abstracts)}\n"
+        f"  Output file:     {output_file}\n"
+        f"  Study types:     {dict(types)}\n"
+        f"  Year range:      {year_range}\n"
+    )
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

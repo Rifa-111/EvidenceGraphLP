@@ -42,6 +42,8 @@ EvidenceGraphLP/
 │   ├── fetch_pubmed.py              # Fetch fresh abstracts from PubMed API
 │   ├── pico_extraction.py           # Hybrid NLP extraction + KG construction
 │   └── link_prediction.py           # Temporal link prediction (main pipeline)
+├── tests/
+│   └── test_fetch_pubmed.py         # Offline tests for PubMed record processing
 ├── results/
 │   ├── knowledge_graph.graphml      # Bipartite evidence graph
 │   ├── pico_triples.csv             # Extracted intervention–outcome triples
@@ -82,7 +84,24 @@ python link_prediction.py
 
 This reproduces Tables 2–4 and Figures 1–3 from the paper using the included corpus (`data/sleep_corpus.json`). All outputs are written to `results/` and `figures/`.
 
-### 3. (Optional) Fetch fresh abstracts from PubMed
+### 3. Run with Docker
+
+```bash
+docker build -t evidencegraphlp .
+docker run --rm -it \
+  -v "$(pwd)/data:/app/data:ro" \
+  -v "$(pwd)/results:/app/results" \
+  -v "$(pwd)/figures:/app/figures" \
+  evidencegraphlp
+```
+
+Or use Docker Compose:
+
+```bash
+docker compose up --build
+```
+
+### 4. (Optional) Fetch fresh abstracts from PubMed
 
 ```bash
 cd src
@@ -91,6 +110,15 @@ python link_prediction.py
 ```
 
 Requires [Biopython](https://biopython.org/) and internet access.
+
+### 5. Run tests
+
+```bash
+python -m pip install pytest
+python -m pytest -q
+```
+
+The tests use mocked PubMed responses and do not make network requests.
 
 ---
 
