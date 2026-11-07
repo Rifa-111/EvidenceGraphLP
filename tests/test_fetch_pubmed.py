@@ -122,6 +122,7 @@ def test_main_writes_results_without_pubmed_requests(tmp_path, monkeypatch):
             "study_type": "RCT",
         }
     ]
+    monkeypatch.setenv("NCBI_EMAIL", "test@example.org")
     monkeypatch.setattr(fetch_pubmed, "Entrez", SimpleNamespace(email=None))
     monkeypatch.setattr(fetch_pubmed, "Medline", object())
     monkeypatch.setattr(fetch_pubmed, "search_pubmed", lambda: ["1"])
@@ -130,3 +131,12 @@ def test_main_writes_results_without_pubmed_requests(tmp_path, monkeypatch):
 
     assert fetch_pubmed.main(output_file) == 0
     assert json.loads(output_file.read_text(encoding="utf-8")) == abstracts
+
+
+def test_main_requires_ncbI_contact_email(tmp_path, monkeypatch):
+    """No network retrieval should proceed with a placeholder email."""
+    monkeypatch.delenv("NCBI_EMAIL", raising=False)
+    monkeypatch.setattr(fetch_pubmed, "Entrez", SimpleNamespace(email=None))
+    monkeypatch.setattr(fetch_pubmed, "Medline", object())
+    monkeypatch.setattr(fetch_pubmed, "search_pubmed", lambda: (_ for _ in ()).throw(AssertionError("Unexpected search")))
+    assert fetch_pubmed.main(tmp_path / "absent.json") == 1

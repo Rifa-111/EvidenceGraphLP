@@ -1,193 +1,88 @@
 # EvidenceGraphLP
 
-**Prospective Identification of Clinical Evidence Gaps Using Temporal Link Prediction on NLP-Constructed Bipartite Knowledge Graphs**
+**Exploratory NLP and bipartite-graph link prediction for mapping intervention–outcome evidence in sleep research**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Data: PubMed](https://img.shields.io/badge/data-PubMed%2020k%20RCT-green.svg)](https://github.com/Franck-Dernoncourt/pubmed-rct)
+[![MIT Licence](https://img.shields.io/badge/Licence-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 
-> **Paper:** Submitted to the *Journal of Biomedical Informatics* (Elsevier, Q1)
+EvidenceGraphLP is a public **research prototype** for extracting intervention and outcome mentions from a sleep-related PubMed abstract corpus, constructing an intervention–outcome graph and exploring which previously unobserved links appear in a later period.
 
----
+> **Research-only limitations:** The system is not a validated evidence-gap detector, medical recommendation engine or systematic-review substitute. A missing or low-ranked link in this corpus does **not** establish that an intervention–outcome relationship has never been studied. Predicting future research activity is not the same as judging clinical importance.
 
-## Overview
+## Repository contents
 
-Systematic reviews can tell us what clinical evidence exists — they cannot tell us what is missing. **EvidenceGraphLP** formalises evidence gap identification as temporal link prediction on bipartite knowledge graphs, where intervention nodes connect to outcome nodes through edges representing completed clinical trials.
+- `data/sleep_corpus.json`: bundled, domain-specific abstract corpus; review provenance and filtering before reuse.
+- `src/link_prediction.py`: research pipeline for extraction, temporal graph construction, model comparison and visualisations.
+- `src/fetch_pubmed.py`: optional PubMed retrieval script requiring network access and user-configured NCBI contact information.
+- `src/pico_extraction.py`: **legacy experimental extraction script**, not part of the primary reproducible pipeline.
+- `tests/test_fetch_pubmed.py`: offline unit tests for PubMed record processing.
+- `results/` and `figures/`: checked-in research artefacts; **not verified to have been generated from the present code and dependencies without rerunning the pipeline**.
 
-![Knowledge Graph](figures/fig4_knowledge_graph.png)
+## Install and verify
 
-### Key Results
-
-| Metric | Value |
-|---|---|
-| Temporal AUC-ROC (Gradient Boosting) | **0.932** |
-| Improvement over naïve degree baseline | **+25.9 pp** |
-| Bipartite topology features alone | **0.876 AUC** |
-| Degree-only features | 0.622 AUC |
-| Standard heuristics (Jaccard, CN, AA) | 0.500 (chance) |
-
-**Central insight:** Standard neighbourhood-based link prediction heuristics are structurally uninformative on bipartite evidence graphs. One-mode projection features capture evidence accumulation patterns that drive prediction.
-
-**Important distinction:** The model predicts *research trajectory* (what is likely to be studied) rather than *clinical importance* (what should be studied).
-
----
-
-## Repository Structure
-
-```
-EvidenceGraphLP/
-├── data/
-│   └── sleep_corpus.json            # 384 RCT abstracts with PMID-derived years
-├── src/
-│   ├── fetch_pubmed.py              # Fetch fresh abstracts from PubMed API
-│   ├── pico_extraction.py           # Hybrid NLP extraction + KG construction
-│   └── link_prediction.py           # Temporal link prediction (main pipeline)
-├── tests/
-│   └── test_fetch_pubmed.py         # Offline tests for PubMed record processing
-├── results/
-│   ├── knowledge_graph.graphml      # Bipartite evidence graph
-│   ├── pico_triples.csv             # Extracted intervention–outcome triples
-│   ├── evidence_matrix.csv          # Intervention × outcome co-occurrence
-│   ├── gap_predictions.csv          # Ranked evidence gap predictions
-│   ├── extraction_results.json      # Per-abstract PICO extraction
-│   └── experiment_summary.json      # Model performance summary
-├── figures/
-│   ├── fig1_model_comparison.png    # AUC-ROC + ablation
-│   ├── fig2_feature_importance.png  # Feature importance
-│   ├── fig3_gap_predictions.png     # Gap fill heatmap
-│   └── fig4_knowledge_graph.png     # Knowledge graph visualisation
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
-```
-
----
-
-## Reproducing the Results
-
-### 1. Clone and install
+Python 3.11 is the documented reference interpreter. Install the spaCy English model separately:
 
 ```bash
 git clone https://github.com/Rifa-111/EvidenceGraphLP.git
 cd EvidenceGraphLP
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 python -m spacy download en_core_web_sm
-```
-
-### 2. Run the pipeline
-
-```bash
-cd src
-python link_prediction.py
-```
-
-This reproduces Tables 2–4 and Figures 1–3 from the paper using the included corpus (`data/sleep_corpus.json`). All outputs are written to `results/` and `figures/`.
-
-### 3. Run with Docker
-
-```bash
-docker build -t evidencegraphlp .
-docker run --rm -it \
-  -v "$(pwd)/data:/app/data:ro" \
-  -v "$(pwd)/results:/app/results" \
-  -v "$(pwd)/figures:/app/figures" \
-  evidencegraphlp
-```
-
-Or use Docker Compose:
-
-```bash
-docker compose up --build
-```
-
-### 4. (Optional) Fetch fresh abstracts from PubMed
-
-```bash
-cd src
-python fetch_pubmed.py
-python link_prediction.py
-```
-
-Requires [Biopython](https://biopython.org/) and internet access.
-
-### 5. Run tests
-
-```bash
-python -m pip install pytest
 python -m pytest -q
 ```
 
-The tests use mocked PubMed responses and do not make network requests.
+Run the primary pipeline from the repository root:
 
----
-
-## Pipeline Architecture
-
-```
-PubMed RCT abstracts
-        │
-        ▼
-Hybrid NLP extraction (dictionary + spaCy dependency parsing)
-        │
-        ▼
-Bipartite knowledge graph (interventions ↔ outcomes)
-        │
-        ▼
-Temporal split (train ≤2014, test 2015–2017)
-        │
-        ▼
-Feature engineering (9 predictors: 6 degree-derived, 3 bipartite topology)
-        │
-        ▼
-Supervised link prediction + bootstrap 95% CIs
-        │
-        ▼
-Ranked evidence gap predictions + negative sampling sensitivity
+```bash
+python src/link_prediction.py
 ```
 
-### Features (9 total)
+It reads `data/sleep_corpus.json` and writes generated files under `results/` and `figures/`. The pipeline is not yet tested end-to-end in continuous integration. Its outputs can differ from committed artefacts because of dependency versions, sampling choices and methodological limitations.
 
-| Category | Features | Count |
-|---|---|---|
-| Degree-derived | deg_u, deg_v, deg_product, deg_sum, deg_diff, deg_ratio | 6 |
-| Bipartite topology | shared_intermediate_paths, projected_deg_u, projected_deg_v | 3 |
+To inspect the saved outputs without rerunning, view the CSV files and images already in the repository.
 
-**Excluded:** Node-type indicators (trivial), preferential attachment (algebraically redundant with degree product), weighted_paths (identically zero on bipartite graphs).
+For optional fresh PubMed retrieval, set a real NCBI contact email before running the separate fetcher:
 
----
-
-## Caveats
-
-- The model predicts **research trajectory**, not **clinical importance**
-- The NLP extraction has **not been validated** against manual annotations
-- Publication years are approximated from PMID assignment order
-- The temporal test set contains 60 positive samples
-- Evaluated on a single clinical domain (sleep disorders)
-
----
-
-## Data Source
-
-Corpus derived from the [PubMed 20k RCT dataset](https://github.com/Franck-Dernoncourt/pubmed-rct) (Dernoncourt & Lee, IJCNLP 2017), filtered for sleep disorder interventions. All abstracts are genuine PubMed records.
-
----
-
-## Citation
-
-```bibtex
-@article{ferzana2026evidencegraphlp,
-  title={Prospective identification of clinical evidence gaps using temporal 
-         link prediction on {NLP}-constructed bipartite knowledge graphs},
-  author={Ferzana, Rifa},
-  journal={Journal of Biomedical Informatics},
-  year={2026},
-  note={Under review}
-}
+```bash
+export NCBI_EMAIL="you@example.org"  # replace with your real address
+python src/fetch_pubmed.py
 ```
 
----
+The fetcher writes `sleep_corpus_300.json` to the current working directory. **The main link-prediction script does not automatically use that file**: it reads the committed `data/sleep_corpus.json`. Review and explicitly manage your dataset if running a new study; do not imply a fresh fetch reproduces the published sample.
+
+### Docker
+
+```bash
+docker build -t evidencegraphlp .
+docker run --rm evidencegraphlp
+```
+
+To **retain** outputs locally, mount writable `results/` and `figures/` folders; see [REPRODUCIBILITY.md](REPRODUCIBILITY.md). Docker Compose is not configured in this repository.
+
+## Research approach
+
+The current script uses regex dictionaries and spaCy to identify intervention and outcome mentions, constructs a bipartite graph, uses a year threshold of **2014** and trains conventional link-prediction classifiers on graph-derived features. The project includes ablations, sampled-negative comparisons and descriptive plots.
+
+### Reported experimental results — not independently verified here
+
+An earlier repository README reported a gradient-boosting temporal AUC-ROC of **0.932**, a degree baseline AUC of **0.622** and a topology-only AUC of **0.876**. Those values are **historical reported figures**, not freshly reproduced results or independent clinical validation. The evaluation implementation requires further methodological review before claiming a robust prospective prediction benchmark. See [REPRODUCIBILITY.md](REPRODUCIBILITY.md).
+
+In particular, evaluation positives and negatives are selected under different constraints, the graph is constructed from heuristic text extraction, year metadata may be approximated and the original bootstrap confidence-interval implementation sampled labels and predictions inconsistently. These issues could affect headline metrics and uncertainty estimates.
+
+## Data and scientific limits
+
+- The corpus is a sleep-disorder sample, not a comprehensive register of all clinical evidence.
+- The extraction is dictionary-based with heuristic dependency parsing; accuracy against manually annotated gold-standard PICO spans is **not established** here.
+- The pipeline uses publication/approximate-year metadata, not independently verified trial completion timestamps.
+- The output ranks candidate links by **learned research-co-occurrence patterns**, not the medical benefit, novelty or urgency of research.
+- Retrieved PubMed content must be checked against its source terms, permitted reuse and provenance.
+- No third-party adoption, external validation or community impact is claimed simply because the repository is public.
+
+## Contributing and citing
+
+Constructive reproducibility reports, documentation fixes and independent method reviews are welcome via [GitHub Issues](https://github.com/Rifa-111/EvidenceGraphLP/issues). See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+If citing this software, use the repository URL, version or commit SHA and access date. The code repository does **not** independently verify any journal submission, acceptance or publication. Cite a manuscript only with independently verified bibliographic status.
 
 ## Licence
 
-MIT — see [LICENSE](LICENSE) for details.
+Code is made available under the [MIT licence](LICENSE). The software licence does not automatically grant unrestricted reuse rights for third-party source abstracts or embedded figures.
