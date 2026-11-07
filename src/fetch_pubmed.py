@@ -9,6 +9,7 @@ working directory.
 """
 
 import json
+import os
 import time
 from collections import Counter
 
@@ -125,7 +126,7 @@ def search_pubmed(entrez_client=None, sleep_fn=time.sleep):
         except Exception as error:
             print(f"  Query {index} failed: {error}")
 
-    return list(all_pmids)[:TARGET]
+    return sorted(all_pmids)[:TARGET]
 
 
 def fetch_abstracts(
@@ -173,7 +174,11 @@ def main(output_file=OUTPUT_FILE):
         print("Install biopython first: pip install biopython")
         return 1
 
-    Entrez.email = "your.email@example.com"
+    email = os.environ.get("NCBI_EMAIL")
+    if not email:
+        print("Set NCBI_EMAIL to your real contact email before PubMed retrieval.")
+        return 1
+    Entrez.email = email
     pmids = search_pubmed()
     print(f"\nTotal unique PMIDs: {len(pmids)}")
     abstracts = deduplicate_abstracts(fetch_abstracts(pmids))
