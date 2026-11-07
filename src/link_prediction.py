@@ -1,11 +1,11 @@
 """
 EvidenceGraphLP: Link Prediction Pipeline
 ==========================================
-Matches the manuscript exactly:
+Research prototype; does NOT establish independently validated prospective evidence gaps.
 - 9 features (6 degree-derived, 3 bipartite topology)
 - No weighted_paths (identically zero on bipartite graphs)
 - No preferential attachment (algebraically redundant with degree product)
-- Temporal hold-out with bootstrap 95% CIs
+- Temporal split with methodological limitations (see REPRODUCIBILITY.md)
 - Negative sampling sensitivity analysis
 
 Usage:  cd src && python link_prediction.py
@@ -20,7 +20,7 @@ from sklearn.ensemble import RandomForestClassifier,GradientBoostingClassifier
 from sklearn.metrics import roc_auc_score,average_precision_score,f1_score
 from sklearn.model_selection import StratifiedKFold,cross_val_score
 import matplotlib;matplotlib.use('Agg');import matplotlib.pyplot as plt;import seaborn as sns
-warnings.filterwarnings('ignore');np.random.seed(42)
+np.random.seed(42)
 BASE=os.path.dirname(os.path.abspath(__file__))
 DATA=os.path.join(BASE,'..','data','sleep_corpus.json')
 RES=os.path.join(BASE,'..','results');FIG=os.path.join(BASE,'..','figures')
@@ -51,7 +51,7 @@ def extract(text):
                     for p,c in OUTC.items():
                         if re.search(p,sp,re.IGNORECASE):oc.add(c)
     iv.discard('placebo');iv.discard('waitlist')
-    return list(iv),list(oc)
+    return sorted(iv),sorted(oc)
 print("Extracting...")
 recs=[]
 for a in corpus:
@@ -75,10 +75,10 @@ print(f"Full graph: {Gfu.number_of_nodes()} nodes, {Gfu.number_of_edges()} edges
 new_e=set(Gfu.edges())-set(Gtr.edges())
 itr=[n for n,d in Gtr.nodes(data=True) if d.get('node_type')=='intervention']
 otr=[n for n,d in Gtr.nodes(data=True) if d.get('node_type')=='outcome']
-pos_test=[(u,v) for u,v in new_e if u in Gtr and v in Gtr]
+pos_test=sorted((u,v) for u,v in new_e if u in Gtr and v in Gtr)
 allp=set((u,v) for u in itr for v in otr)
 fe=set(Gfu.edges())|{(v,u) for u,v in Gfu.edges()}
-neg_pool=list(allp-fe)
+neg_pool=sorted(allp-fe)
 print(f"Test positive: {len(pos_test)}, Negative pool: {len(neg_pool)}")
 FEATS=['deg_u','deg_v','deg_product','deg_sum','deg_diff','deg_ratio','shared_intermediate','projected_deg_u','projected_deg_v']
 def feats(G,u,v):
@@ -105,13 +105,23 @@ def mkdata(G,pos,neg):
     return pd.DataFrame(X)[FEATS],np.array(y)
 ni=np.random.choice(len(neg_pool),size=min(len(pos_test)*3,len(neg_pool)),replace=False)
 def_neg=[neg_pool[i] for i in ni]
-tp=list(Gtr.edges());tnp=list(allp-set(Gtr.edges())-{(v,u) for u,v in Gtr.edges()})
+tp=sorted(Gtr.edges());tnp=sorted(allp-set(Gtr.edges())-{(v,u) for u,v in Gtr.edges()})
 tni=np.random.choice(len(tnp),size=min(len(tp)*2,len(tnp)),replace=False)
 tn=[tnp[i] for i in tni]
 Xtr,ytr=mkdata(Gtr.copy(),tp,tn);Xte,yte=mkdata(Gtr.copy(),pos_test,def_neg)
 print(f"Train: {Xtr.shape}, Test: {Xte.shape}")
 def bci(yt,ys,fn,nb=2000):
-    sc=[fn(yt[i:=np.random.choice(len(yt),len(yt),replace=True)],ys[i]) for _ in range(nb) if len(set(yt[i:=np.random.choice(len(yt),len(yt),replace=True)]))>1]
+    """Paired nonparametric bootstrap for a fixed test set.
+
+    This does not capture uncertainty from corpus/extraction/model selection.
+    """
+    sc=[]
+    for _ in range(nb):
+        idx=np.random.choice(len(yt),len(yt),replace=True)
+        if len(np.unique(yt[idx])) > 1:
+            sc.append(fn(yt[idx],ys[idx]))
+    if not sc:
+        raise ValueError('Bootstrap samples lacked both classes')
     return np.percentile(sc,2.5),np.percentile(sc,97.5)
 print(f"\n{'='*60}\nMODEL COMPARISON + Bootstrap 95% CIs\n{'='*60}")
 mdls={'Logistic Regression':LogisticRegression(max_iter=1000,random_state=42,class_weight='balanced'),'Random Forest':RandomForestClassifier(n_estimators=200,random_state=42,n_jobs=-1,class_weight='balanced'),'Gradient Boosting':GradientBoostingClassifier(n_estimators=200,random_state=42,max_depth=4)}
