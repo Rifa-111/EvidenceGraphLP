@@ -40,6 +40,15 @@ It reads `data/sleep_corpus.json` and writes generated files under `results/` an
 
 To inspect the saved outputs without rerunning, view the CSV files and images already in the repository.
 
+For optional fresh PubMed retrieval, set a real NCBI contact email before running the separate fetcher:
+
+```bash
+export NCBI_EMAIL="you@example.org"  # replace with your real address
+python src/fetch_pubmed.py
+```
+
+The fetcher writes `sleep_corpus_300.json` to the current working directory. **The main link-prediction script does not automatically use that file**: it reads the committed `data/sleep_corpus.json`. Review and explicitly manage your dataset if running a new study; do not imply a fresh fetch reproduces the published sample.
+
 ### Docker
 
 ```bash
